@@ -2,8 +2,7 @@
     "seasonalMessages": {
       "Q1": {
         "JP": {
-          "zh-HK": "Check out the beautiful {{#catalogCollection 'data' as | aj |}}{{#aj.[0]}}
-{{activityName_zh_HK}}{{/aj.[0]}}{{/catalogCollection}}",
+          "zh-HK": "Check out the beautiful"
           "th-TH": "<p>{{activityName_zh_HK}}</p>",
           "zh-TW": "test",
           "id-ID":  "{{activityName_zh_HK}}",
