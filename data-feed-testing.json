@@ -1,0 +1,41 @@
+{
+    "seasonalMessages": {
+      "Q1": {
+        "JP": {
+          "zh-HK": "Check out the beautiful Cherry Blossom festivals happening in Kyoto!",
+          "th-TH": "เช็คเอาท์เทศกาลดอกซากุระที่สวยงามในเกียวโต!",
+          "zh-TW": "查看在京都舉行的美麗櫻花節!",
+          "id-ID": "Lihat festival Bunga Sakura yang indah di Kyoto!",
+          "en-US": "Check out the beautiful Cherry Blossom festivals happening in Kyoto!"
+        }
+      },
+      "Q2": {
+        "JP": {
+          "zh-HK": "Get ready for Island Hopping in Ishigaki!",
+          "th-TH": "เตรียมตัวสำหรับการกระโดดเกาะในอิชิกากิ!",
+          "zh-TW": "準備好在石垣島跳島了嗎！",
+          "id-ID": "Bersiap untuk Island Hopping di Ishigaki!",
+          "en-US": "Get ready for Island Hopping in Ishigaki!"
+        }
+      },
+      "Q3": {
+        "JP": {
+          "zh-HK": "Experience the Summer Fireworks during the Obon holiday in Nagaoka!",
+          "th-TH": "สัมผัสกับพลุฤดูร้อนระหว่างวันหยุด Obon ที่ Nagaoka!",
+          "zh-TW": "在長岡的Obon假期體驗夏日煙花！",
+          "id-ID": "Rasakan Kembang Api Musim Panas selama liburan Obon di Nagaoka!",
+          "en-US": "Experience the Summer Fireworks during the Obon holiday in Nagaoka!"
+        }
+      },
+      "Q4": {
+        "JP": {
+          "zh-HK": "Enjoy Skiing in Sapporo!",
+          "th-TH": "สนุกกับการเล่นสกีในซัปโปโร!",
+          "zh-TW": "享受在札幌滑雪的樂趣！",
+          "id-ID": "Nikmati Ski di Sapporo!",
+          "en-US": "Enjoy Skiing in Sapporo!"
+        }
+      }
+    }
+  }
+  
