@@ -3,9 +3,9 @@
       "Q1": {
         "JP": {
           "zh-HK": "Check out the beautiful {{activityName_zh_HK}}",
-          "th-TH": {{{activityName_zh_HK}}},
+          "th-TH": "<p>{{activityName_zh_HK}}</p>",
           "zh-TW": "test",
-          "id-ID":  {{activityName_zh_HK}},
+          "id-ID":  "{{activityName_zh_HK}}",
           "en-US": "Check out the beautiful Cherry Blossom festivals happening in Kyoto!"
         }
       },
