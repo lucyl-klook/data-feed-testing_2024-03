@@ -2,7 +2,7 @@
     "seasonalMessages": {
       "Q1": {
         "JP": {
-          "zh-HK": "Check out the beautiful {{activityName_zh_HK}}",
+          "zh-HK": "Check out the beautiful {{{activityName_zh_HK}}}",
           "th-TH": "เช็คเอาท์เทศกาลดอกซากุระที่สวยงามในเกียวโต!",
           "zh-TW": "查看在京都舉行的美麗櫻花節!",
           "id-ID": "Lihat festival Bunga Sakura yang indah di Kyoto!",
