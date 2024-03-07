@@ -3,8 +3,8 @@
       "Q1": {
         "JP": {
           "zh-HK": "Check out the beautiful {{activityName_zh_HK}}",
-          "th-TH": "{{activityName_zh_HK}}",
-          "zh-TW": "查看在京都舉行的美麗櫻花節!",
+          "th-TH": {{activityName_zh_HK}},
+          "zh-TW": {{#catalogCollection 'data' as | aj |}}{{aj.[0].activityName_zh_HK}}{{/catalogCollection}},
           "id-ID": "Lihat festival Bunga Sakura yang indah di Kyoto!",
           "en-US": "Check out the beautiful Cherry Blossom festivals happening in Kyoto!"
         }
