@@ -1,1478 +1,1514 @@
 {
   "Japan": {
     "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Springtime Attractions",
-          "body-v1": "Explore {{activityName}}under the spring blooms in Japan.",
-          "title-v3": "Discover New Sides of Japan",
-          "body-v3": "Explore anew with {{activityName}}!",
-          "title-v4": "Uncover Japan's Hidden Gems",
-          "body-v4": "Explore the secret: {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Springtime Attractions",
+            "body-v1": "Explore {{activityName}}under the spring blooms in Japan.",
+            "title-v3": "Discover New Sides of Japan",
+            "body-v3": "Explore anew with {{activityName}}!",
+            "title-v4": "Uncover Japan's Hidden Gems",
+            "body-v4": "Explore the secret: {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "春天的景點",
+            "body-v1": "在春花下探索{{activityName}}，標誌性的日本景點。",
+            "title-v3": "探索日本新面貌",
+            "body-v3": "體驗新事物：{{activityName}}！",
+            "title-v4": "揭秘日本隱藏景點",
+            "body-v4": "秘境探索：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "春天的景點",
+            "body-v1": "在春花下探索{{activityName}}，標誌性的日本景點。",
+            "title-v3": "探索日本新事物",
+            "body-v3": "新探索，用{{activityName}}！",
+            "title-v4": "發現日本隱藏版景點",
+            "body-v4": "探秘地點：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
+            "body-v1": "สำรวจ {{activityName}} ใต้ดอกไม้ในฤดูใบไม้ผลิ จุดเด่นของญี่ปุ่น",
+            "title-v3": "สำรวจมุมใหม่ๆ ในญี่ปุ่น",
+            "body-v3": "พบประสบการณ์ใหม่กับ{{activityName}}!",
+            "title-v4": "ค้นพบสถานที่ลับในญี่ปุ่น",
+            "body-v4": "สำรวจ{{activityName}} สถานที่ซ่อนเร้น!"
+          },
+          "id-ID": {
+            "title-v1": "Daya Tarik Musim Semi",
+            "body-v1": "Menjelajahi {{activityName}} di bawah bunga-bunga musim semi, landmark ikonis Jepang",
+            "title-v3": "Jelajahi Sisi Baru Jepang",
+            "body-v3": "Coba yang baru dengan {{activityName}}!",
+            "title-v4": "Temukan Permata Tersembunyi Jepang",
+            "body-v4": "Jelajahi rahasia: {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "春天的景點",
-          "body-v1": "在春花下探索{{activityName}}，標誌性的日本景點。",
-          "title-v3": "探索日本新面貌",
-          "body-v3": "體驗新事物：{{activityName}}！",
-          "title-v4": "揭秘日本隱藏景點",
-          "body-v4": "秘境探索：{{activityName}}！"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Fun",
+            "body-v1": "Dive into {{activityName}}, the top summer attractions in Japan."
+          },
+          "zh-HK": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "暢遊{{activityName}}，全球頂級的夏日日本景點。"
+          },
+          "zh-TW": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "暢遊{{activityName}}，全球頂級的夏日日本景點。"
+          },
+          "th-TH": {
+            "title-v1": "ความสนุกสนานในฤดูร้อน",
+            "body-v1": "ท่องเที่ยว {{activityName}} สถานที่ท่องเที่ยวญี่ปุ่นชั้นนำของโลกในฤดูร้อน"
+          },
+          "id-ID": {
+            "title-v1": "Keseruan Musim Panas",
+            "body-v1": "Berkunjung ke {{activityName}}, tempat wisata musim panas terbaik Jepang di dunia"
+          }
         },
-        "zh-TW": {
-          "title-v1": "春天的景點",
-          "body-v1": "在春花下探索{{activityName}}，標誌性的日本景點。",
-          "title-v3": "探索日本新事物",
-          "body-v3": "新探索，用{{activityName}}！",
-          "title-v4": "發現日本隱藏版景點",
-          "body-v4": "探秘地點：{{activityName}}！"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Autumn Adventures",
+            "body-v1": "Discover {{activityName}}, the fall colors at these spectacular locations in Japan."
+          },
+          "zh-HK": {
+            "title-v1": "秋日冒險",
+            "body-v1": "在這些壯觀的日本地點發現{{activityName}}，秋天的顏色。"
+          },
+          "zh-TW": {
+            "title-v1": "秋日冒險",
+            "body-v1": "在這些壯觀的日本地點發現{{activityName}}，秋天的顏色。"
+          },
+          "th-TH": {
+            "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
+            "body-v1": "ค้นพบ {{activityName}} ในที่ต่างๆ ของญี่ปุ่นที่งดงามในฤดูใบไม้ร่วง"
+          },
+          "id-ID": {
+            "title-v1": "Petualangan Musim Gugur",
+            "body-v1": "Temukan {{activityName}} di lokasi-lokasi spektakuler Jepang, warna musim gugur"
+          }
         },
-        "th-TH": {
-          "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
-          "body-v1": "สำรวจ {{activityName}} ใต้ดอกไม้ในฤดูใบไม้ผลิ จุดเด่นของญี่ปุ่น",
-          "title-v3": "สำรวจมุมใหม่ๆ ในญี่ปุ่น",
-          "body-v3": "พบประสบการณ์ใหม่กับ{{activityName}}!",
-          "title-v4": "ค้นพบสถานที่ลับในญี่ปุ่น",
-          "body-v4": "สำรวจ{{activityName}} สถานที่ซ่อนเร้น!"
-        },
-        "id-ID": {
-          "title-v1": "Daya Tarik Musim Semi",
-          "body-v1": "Menjelajahi {{activityName}} di bawah bunga-bunga musim semi, landmark ikonis Jepang",
-          "title-v3": "Jelajahi Sisi Baru Jepang",
-          "body-v3": "Coba yang baru dengan {{activityName}}!",
-          "title-v4": "Temukan Permata Tersembunyi Jepang",
-          "body-v4": "Jelajahi rahasia: {{activityName}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Dive into {{activityName}}, the top summer attractions in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "暢遊{{activityName}}，全球頂級的夏日日本景點。"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "暢遊{{activityName}}，全球頂級的夏日日本景點。"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ท่องเที่ยว {{activityName}} สถานที่ท่องเที่ยวญี่ปุ่นชั้นนำของโลกในฤดูร้อน"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Berkunjung ke {{activityName}}, tempat wisata musim panas terbaik Jepang di dunia"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Discover {{activityName}}, the fall colors at these spectacular locations in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "在這些壯觀的日本地點發現{{activityName}}，秋天的顏色。"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "在這些壯觀的日本地點發現{{activityName}}，秋天的顏色。"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "ค้นพบ {{activityName}} ในที่ต่างๆ ของญี่ปุ่นที่งดงามในฤดูใบไม้ร่วง"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Temukan {{activityName}} di lokasi-lokasi spektakuler Jepang, warna musim gugur"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Experience {{activityName}}, magical winter attractions covered in snow in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "體驗{{activityName}}，覆蓋在雪中的神奇日本冬季景點。"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "體驗{{activityName}}，覆蓋在雪中的神奇日本冬季景點。"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "สัมผัส {{activityName}} จุดท่องเที่ยวญี่ปุ่นมหัศจรรย์ในฤดูหนาวที่ปกคลุมไปด้วยหิมะ"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Mengalami {{activityName}}, daya tarik musim dingin Jepang yang ajaib terbungkus salju"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Winter Wonders",
+            "body-v1": "Experience {{activityName}}, magical winter attractions covered in snow in Japan."
+          },
+          "zh-HK": {
+            "title-v1": "冬季奇景",
+            "body-v1": "體驗{{activityName}}，覆蓋在雪中的神奇日本冬季景點。"
+          },
+          "zh-TW": {
+            "title-v1": "冬季奇景",
+            "body-v1": "體驗{{activityName}}，覆蓋在雪中的神奇日本冬季景點。"
+          },
+          "th-TH": {
+            "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
+            "body-v1": "สัมผัส {{activityName}} จุดท่องเที่ยวญี่ปุ่นมหัศจรรย์ในฤดูหนาวที่ปกคลุมไปด้วยหิมะ"
+          },
+          "id-ID": {
+            "title-v1": "Keajaiban Musim Dingin",
+            "body-v1": "Mengalami {{activityName}}, daya tarik musim dingin Jepang yang ajaib terbungkus salju"
+          }
         }
       }
     },
     "Attractions Pass": {
-      "Q1": {
-        "en-US": {
-          "title-v2": "Uncover Japan's Hidden Gems",
-          "body-v2": "Explore the secret: {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v2": "揭秘日本隱藏景點",
-          "body-v2": "秘境探索：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v2": "發現日本隱藏版景點",
-          "body-v2": "探秘地點：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v2": "ค้นพบสถานที่ลับในญี่ปุ่น",
-          "body-v2": "สำรวจ{{activityName}} สถานที่ซ่อนเร้น!"
-        },
-        "id-ID": {
-          "title-v2": "Temukan Permata Tersembunyi Jepang",
-          "body-v2": "Jelajahi rahasia: {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v2": "Uncover Japan's Hidden Gems",
+            "body-v2": "Explore the secret: {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v2": "揭秘日本隱藏景點",
+            "body-v2": "秘境探索：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v2": "發現日本隱藏版景點",
+            "body-v2": "探秘地點：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v2": "ค้นพบสถานที่ลับในญี่ปุ่น",
+            "body-v2": "สำรวจ{{activityName}} สถานที่ซ่อนเร้น!"
+          },
+          "id-ID": {
+            "title-v2": "Temukan Permata Tersembunyi Jepang",
+            "body-v2": "Jelajahi rahasia: {{activityName}}!"
+          }
         }
       }
     },
     "Mobility": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Spring into New Journeys!",
-          "body-v1": "Explore {{activityName}}under the spring blooms in Japan.",
-          "title-v2": "Unveil Japan's Hidden Routes",
-          "body-v2": "Secret paths with {{activityName}}!",
-          "title-v3": "Discover New Sides of {{countryName}}",
-          "body-v3": "Explore anew with {{activityName}}!",
-          "title-v4": "Special Ride Offers in {{countryName}}!",
-          "body-v4": "Ride more, save more: {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Spring into New Journeys!",
+            "body-v1": "Explore {{activityName}}under the spring blooms in Japan.",
+            "title-v2": "Unveil Japan's Hidden Routes",
+            "body-v2": "Secret paths with {{activityName}}!",
+            "title-v3": "Discover New Sides of {{countryName}}",
+            "body-v3": "Explore anew with {{activityName}}!",
+            "title-v4": "Special Ride Offers in {{countryName}}!",
+            "body-v4": "Ride more, save more: {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "春日遊：開啟新旅程！",
+            "body-v1": "在春花下探索{{activityName}}，標誌性的日本景點。",
+            "title-v2": "探索{{countryName}}隱秘通道",
+            "body-v2": "發現隱藏路線：{{activityName}}！",
+            "title-v3": "探索{{countryName}}新面貌",
+            "body-v3": "體驗新事物：{{activityName}}！",
+            "title-v4": "{{countryName}}專屬行程優惠",
+            "body-v4": "優惠行程：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "春遊啟程：新旅程等你開啟！",
+            "body-v1": "在春花下探索{{activityName}}，標誌性的日本景點。",
+            "title-v2": "發掘{{countryName}}秘密路徑",
+            "body-v2": "探索秘境：{{activityName}}！",
+            "title-v3": "探索{{countryName}}新事物",
+            "body-v3": "新探索，用{{activityName}}！",
+            "title-v4": "{{countryName}}行程特別優惠",
+            "body-v4": "特價優惠：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "หน้าใหม่เดินทางช่วงฤดูใบไม้ผลิ",
+            "body-v1": "สำรวจ {{activityName}} ใต้ดอกไม้ในฤดูใบไม้ผลิ จุดเด่นของญี่ปุ่น",
+            "title-v2": "เส้นทางลับของ{{countryName}}",
+            "body-v2": "ค้นหา{{activityName}} เส้นทางซ่อนเร้น!",
+            "title-v3": "สำรวจมุมใหม่ๆ ใน{{countryName}}",
+            "body-v3": "พบประสบการณ์ใหม่กับ{{activityName}}!",
+            "title-v4": "ข้อเสนอพิเศษสำหรับการเดินทางใน{{countryName}}",
+            "body-v4": "ข้อเสนอพิเศษจาก{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Waktunya Petualangan Musim Semi!",
+            "body-v1": "Menjelajahi {{activityName}} di bawah bunga-bunga musim semi, landmark ikonis Jepang",
+            "title-v2": "Rahasia Jalur Tersembunyi {{countryName}}",
+            "body-v2": "Temukan jalur tersembunyi: {{activityName}}!",
+            "title-v3": "Jelajahi Sisi Baru {{countryName}}",
+            "body-v3": "Coba yang baru dengan {{activityName}}!",
+            "title-v4": "Penawaran Khusus Perjalanan {{countryName}}",
+            "body-v4": "Nikmati penawaran khusus: {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "春日遊：開啟新旅程！",
-          "body-v1": "在春花下探索{{activityName}}，標誌性的日本景點。",
-          "title-v2": "探索{{countryName}}隱秘通道",
-          "body-v2": "發現隱藏路線：{{activityName}}！",
-          "title-v3": "探索{{countryName}}新面貌",
-          "body-v3": "體驗新事物：{{activityName}}！",
-          "title-v4": "{{countryName}}專屬行程優惠",
-          "body-v4": "優惠行程：{{activityName}}！"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Escapes: Travel Light!",
+            "body-v1": "Dive into {{activityName}}, the top summer attractions in Japan."
+          },
+          "zh-HK": {
+            "title-v1": "夏日逃逸：輕裝上路！",
+            "body-v1": "暢遊{{activityName}}，全球頂級的夏日日本景點。"
+          },
+          "zh-TW": {
+            "title-v1": "夏日出走：輕旅行！",
+            "body-v1": "暢遊{{activityName}}，全球頂級的夏日日本景點。"
+          },
+          "th-TH": {
+            "title-v1": "หน้าร้อนนี้ เที่ยวไร้ภาระ",
+            "body-v1": "ท่องเที่ยว {{activityName}} สถานที่ท่องเที่ยวญี่ปุ่นชั้นนำของโลกในฤดูร้อน"
+          },
+          "id-ID": {
+            "title-v1": "Musim Panas: Bepergian tanpa Beban!",
+            "body-v1": "Berkunjung ke {{activityName}}, tempat wisata musim panas terbaik Jepang di dunia"
+          }
         },
-        "zh-TW": {
-          "title-v1": "春遊啟程：新旅程等你開啟！",
-          "body-v1": "在春花下探索{{activityName}}，標誌性的日本景點。",
-          "title-v2": "發掘{{countryName}}秘密路徑",
-          "body-v2": "探索秘境：{{activityName}}！",
-          "title-v3": "探索{{countryName}}新事物",
-          "body-v3": "新探索，用{{activityName}}！",
-          "title-v4": "{{countryName}}行程特別優惠",
-          "body-v4": "特價優惠：{{activityName}}！"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Autumn Adventures: Ride the Breeze!",
+            "body-v1": "Discover {{activityName}}, the fall colors at these spectacular locations in Japan."
+          },
+          "zh-HK": {
+            "title-v1": "秋風冒險：隨風而行！",
+            "body-v1": "在這些壯觀的日本地點發現{{activityName}}，秋天的顏色。"
+          },
+          "zh-TW": {
+            "title-v1": "秋風之旅：乘風破浪！",
+            "body-v1": "在這些壯觀的日本地點發現{{activityName}}，秋天的顏色。"
+          },
+          "th-TH": {
+            "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
+            "body-v1": "ค้นพบ {{activityName}} ในที่ต่างๆ ของญี่ปุ่นที่งดงามในฤดูใบไม้ร่วง"
+          },
+          "id-ID": {
+            "title-v1": "Petualangan Musim Gugur: Ikuti Angin!",
+            "body-v1": "Temukan {{activityName}} di lokasi-lokasi spektakuler Jepang, warna musim gugur"
+          }
         },
-        "th-TH": {
-          "title-v1": "หน้าใหม่เดินทางช่วงฤดูใบไม้ผลิ",
-          "body-v1": "สำรวจ {{activityName}} ใต้ดอกไม้ในฤดูใบไม้ผลิ จุดเด่นของญี่ปุ่น",
-          "title-v2": "เส้นทางลับของ{{countryName}}",
-          "body-v2": "ค้นหา{{activityName}} เส้นทางซ่อนเร้น!",
-          "title-v3": "สำรวจมุมใหม่ๆ ใน{{countryName}}",
-          "body-v3": "พบประสบการณ์ใหม่กับ{{activityName}}!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับการเดินทางใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษจาก{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Waktunya Petualangan Musim Semi!",
-          "body-v1": "Menjelajahi {{activityName}} di bawah bunga-bunga musim semi, landmark ikonis Jepang",
-          "title-v2": "Rahasia Jalur Tersembunyi {{countryName}}",
-          "body-v2": "Temukan jalur tersembunyi: {{activityName}}!",
-          "title-v3": "Jelajahi Sisi Baru {{countryName}}",
-          "body-v3": "Coba yang baru dengan {{activityName}}!",
-          "title-v4": "Penawaran Khusus Perjalanan {{countryName}}",
-          "body-v4": "Nikmati penawaran khusus: {{activityName}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Escapes: Travel Light!",
-          "body-v1": "Dive into {{activityName}}, the top summer attractions in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "夏日逃逸：輕裝上路！",
-          "body-v1": "暢遊{{activityName}}，全球頂級的夏日日本景點。"
-        },
-        "zh-TW": {
-          "title-v1": "夏日出走：輕旅行！",
-          "body-v1": "暢遊{{activityName}}，全球頂級的夏日日本景點。"
-        },
-        "th-TH": {
-          "title-v1": "หน้าร้อนนี้ เที่ยวไร้ภาระ",
-          "body-v1": "ท่องเที่ยว {{activityName}} สถานที่ท่องเที่ยวญี่ปุ่นชั้นนำของโลกในฤดูร้อน"
-        },
-        "id-ID": {
-          "title-v1": "Musim Panas: Bepergian tanpa Beban!",
-          "body-v1": "Berkunjung ke {{activityName}}, tempat wisata musim panas terbaik Jepang di dunia"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures: Ride the Breeze!",
-          "body-v1": "Discover {{activityName}}, the fall colors at these spectacular locations in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "秋風冒險：隨風而行！",
-          "body-v1": "在這些壯觀的日本地點發現{{activityName}}，秋天的顏色。"
-        },
-        "zh-TW": {
-          "title-v1": "秋風之旅：乘風破浪！",
-          "body-v1": "在這些壯觀的日本地點發現{{activityName}}，秋天的顏色。"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "ค้นพบ {{activityName}} ในที่ต่างๆ ของญี่ปุ่นที่งดงามในฤดูใบไม้ร่วง"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur: Ikuti Angin!",
-          "body-v1": "Temukan {{activityName}} di lokasi-lokasi spektakuler Jepang, warna musim gugur"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wheels: Glide into the Cold!",
-          "body-v1": "Experience {{activityName}}, magical winter attractions covered in snow in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "冬季輪旅：滑入寒冬！",
-          "body-v1": "體驗{{activityName}}，覆蓋在雪中的神奇日本冬季景點。"
-        },
-        "zh-TW": {
-          "title-v1": "冬季旅程：向寒冷出發！",
-          "body-v1": "體驗{{activityName}}，覆蓋在雪中的神奇日本冬季景點。"
-        },
-        "th-TH": {
-          "title-v1": "ล้อเลื่อนผ่านหนาว มาเที่ยวกัน",
-          "body-v1": "สัมผัส {{activityName}} จุดท่องเที่ยวญี่ปุ่นมหัศจรรย์ในฤดูหนาวที่ปกคลุมไปด้วยหิมะ"
-        },
-        "id-ID": {
-          "title-v1": "Musim Dingin: Meluncur ke Dingin!",
-          "body-v1": "Mengalami {{activityName}}, daya tarik musim dingin Jepang yang ajaib terbungkus salju"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Winter Wheels: Glide into the Cold!",
+            "body-v1": "Experience {{activityName}}, magical winter attractions covered in snow in Japan."
+          },
+          "zh-HK": {
+            "title-v1": "冬季輪旅：滑入寒冬！",
+            "body-v1": "體驗{{activityName}}，覆蓋在雪中的神奇日本冬季景點。"
+          },
+          "zh-TW": {
+            "title-v1": "冬季旅程：向寒冷出發！",
+            "body-v1": "體驗{{activityName}}，覆蓋在雪中的神奇日本冬季景點。"
+          },
+          "th-TH": {
+            "title-v1": "ล้อเลื่อนผ่านหนาว มาเที่ยวกัน",
+            "body-v1": "สัมผัส {{activityName}} จุดท่องเที่ยวญี่ปุ่นมหัศจรรย์ในฤดูหนาวที่ปกคลุมไปด้วยหิมะ"
+          },
+          "id-ID": {
+            "title-v1": "Musim Dingin: Meluncur ke Dingin!",
+            "body-v1": "Mengalami {{activityName}}, daya tarik musim dingin Jepang yang ajaib terbungkus salju"
+          }
         }
       }
     },
     "T&A": {
-      "Q1": {
-        "en-US": {
-          "title-v2": "Discover Japan's Hidden Gems",
-          "body-v2": "Explore secrets with {{activityName}}!",
-          "title-v3": "New Adventures in Japan Await",
-          "body-v3": "Discover new with {{activityName}}!",
-          "title-v4": "Exclusive Offers in Japan!",
-          "body-v4": "Special deals at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v2": "探索日本隱藏寶藏",
-          "body-v2": "發掘隱秘：{{activityName}}！",
-          "title-v3": "日本新冒險等你發掘",
-          "body-v3": "探索新體驗：{{activityName}}！",
-          "title-v4": "日本獨家優惠",
-          "body-v4": "專享{{activityName}}優惠！"
-        },
-        "zh-TW": {
-          "title-v2": "發現日本的秘密寶藏",
-          "body-v2": "探索隱藏的{{activityName}}！",
-          "title-v3": "日本新探險",
-          "body-v3": "發現新活動：{{activityName}}！",
-          "title-v4": "日本特別優惠",
-          "body-v4": "{{activityName}}專屬優惠！"
-        },
-        "th-TH": {
-          "title-v2": "ค้นพบสมบัติซ่อนเร้นของญี่ปุ่น",
-          "body-v2": "สำรวจ{{activityName}} ที่ซ่อนอยู่!",
-          "title-v3": "ผจญภัยใหม่ๆ ในญี่ปุ่น",
-          "body-v3": "ค้นหา{{activityName}} สิ่งใหม่ๆ!",
-          "title-v4": "ข้อเสนอพิเศษในญี่ปุ่น",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v2": "Temukan Permata Tersembunyi Jepang",
-          "body-v2": "Jelajahi tersembunyi: {{activityName}}!",
-          "title-v3": "Petualangan Baru Menanti di Jepang",
-          "body-v3": "Temukan kegiatan baru: {{activityName}}!",
-          "title-v4": "Penawaran Spesial di Jepang",
-          "body-v4": "Penawaran khusus di {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v2": "Discover Japan's Hidden Gems",
+            "body-v2": "Explore secrets with {{activityName}}!",
+            "title-v3": "New Adventures in Japan Await",
+            "body-v3": "Discover new with {{activityName}}!",
+            "title-v4": "Exclusive Offers in Japan!",
+            "body-v4": "Special deals at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v2": "探索日本隱藏寶藏",
+            "body-v2": "發掘隱秘：{{activityName}}！",
+            "title-v3": "日本新冒險等你發掘",
+            "body-v3": "探索新體驗：{{activityName}}！",
+            "title-v4": "日本獨家優惠",
+            "body-v4": "專享{{activityName}}優惠！"
+          },
+          "zh-TW": {
+            "title-v2": "發現日本的秘密寶藏",
+            "body-v2": "探索隱藏的{{activityName}}！",
+            "title-v3": "日本新探險",
+            "body-v3": "發現新活動：{{activityName}}！",
+            "title-v4": "日本特別優惠",
+            "body-v4": "{{activityName}}專屬優惠！"
+          },
+          "th-TH": {
+            "title-v2": "ค้นพบสมบัติซ่อนเร้นของญี่ปุ่น",
+            "body-v2": "สำรวจ{{activityName}} ที่ซ่อนอยู่!",
+            "title-v3": "ผจญภัยใหม่ๆ ในญี่ปุ่น",
+            "body-v3": "ค้นหา{{activityName}} สิ่งใหม่ๆ!",
+            "title-v4": "ข้อเสนอพิเศษในญี่ปุ่น",
+            "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v2": "Temukan Permata Tersembunyi Jepang",
+            "body-v2": "Jelajahi tersembunyi: {{activityName}}!",
+            "title-v3": "Petualangan Baru Menanti di Jepang",
+            "body-v3": "Temukan kegiatan baru: {{activityName}}!",
+            "title-v4": "Penawaran Spesial di Jepang",
+            "body-v4": "Penawaran khusus di {{activityName}}!"
+          }
         }
       }
     }
   },
   "Sapporo": {
     "T&A": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Spring into Adventure",
-          "body-v1": "Discover {{activityName}} this spring!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Spring into Adventure",
+            "body-v1": "Discover {{activityName}} this spring!"
+          },
+          "zh-HK": {
+            "title-v1": "春季探險啟程",
+            "body-v1": "今春探索{{activityName}}"
+          },
+          "zh-TW": {
+            "title-v1": "開啟春季探險",
+            "body-v1": "這春天來體驗{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "ผจญภัยในฤดูใบไม้ผลิ",
+            "body-v1": "ค้นพบ{{activityName}}ในฤดูใบไม้ผลิ"
+          },
+          "id-ID": {
+            "title-v1": "Petualangan Musim Semi Dimulai",
+            "body-v1": "Jelajahi {{activityName}} di musim semi!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "春季探險啟程",
-          "body-v1": "今春探索{{activityName}}"
-        },
-        "zh-TW": {
-          "title-v1": "開啟春季探險",
-          "body-v1": "這春天來體驗{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ผลิ",
-          "body-v1": "ค้นพบ{{activityName}}ในฤดูใบไม้ผลิ"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Semi Dimulai",
-          "body-v1": "Jelajahi {{activityName}} di musim semi!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Experience Winter Wonders",
-          "body-v1": "Embrace the chill with {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "體驗冬季的奇妙",
-          "body-v1": "冬日擁抱{{activityName}}"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇遇等你來發現",
-          "body-v1": "冬日暖心{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "สัมผัสความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "กอดความหนาวนี้ด้วย{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Nikmati Keajaiban Musim Dingin",
-          "body-v1": "Hangatkan musim dingin dengan {{activityName}}!"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Experience Winter Wonders",
+            "body-v1": "Embrace the chill with {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "體驗冬季的奇妙",
+            "body-v1": "冬日擁抱{{activityName}}"
+          },
+          "zh-TW": {
+            "title-v1": "冬季奇遇等你來發現",
+            "body-v1": "冬日暖心{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "สัมผัสความมหัศจรรย์ของฤดูหนาว",
+            "body-v1": "กอดความหนาวนี้ด้วย{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Nikmati Keajaiban Musim Dingin",
+            "body-v1": "Hangatkan musim dingin dengan {{activityName}}!"
+          }
         }
       }
     }
   },
   "Kyoto": {
     "T&A": {
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Explorations Await",
-          "body-v1": "Dive into summer with {{activityName}}!"
+      "seasons": {
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Explorations Await",
+            "body-v1": "Dive into summer with {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "夏日探索等你",
+            "body-v1": "夏日與{{activityName}}共度"
+          },
+          "zh-TW": {
+            "title-v1": "夏日探險等著你",
+            "body-v1": "享受夏日{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "สำรวจสนุกในฤดูร้อน",
+            "body-v1": "ดำดิ่งสู่ความสนุก{{activityName}}หน้าร้อน"
+          },
+          "id-ID": {
+            "title-v1": "Jelajahi Keseruan Musim Panas",
+            "body-v1": "Rasakan musim panas dengan {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "夏日探索等你",
-          "body-v1": "夏日與{{activityName}}共度"
-        },
-        "zh-TW": {
-          "title-v1": "夏日探險等著你",
-          "body-v1": "享受夏日{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "สำรวจสนุกในฤดูร้อน",
-          "body-v1": "ดำดิ่งสู่ความสนุก{{activityName}}หน้าร้อน"
-        },
-        "id-ID": {
-          "title-v1": "Jelajahi Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas dengan {{activityName}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Uncover Autumn's Secrets",
-          "body-v1": "Explore the colors of fall with {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "揭開秋季的祕密",
-          "body-v1": "秋色中體驗{{activityName}}"
-        },
-        "zh-TW": {
-          "title-v1": "秋季祕境等你探索",
-          "body-v1": "秋季色彩與{{activityName}}同行"
-        },
-        "th-TH": {
-          "title-v1": "ค้นพบความลับของฤดูใบไม้ร่วง",
-          "body-v1": "สำรวจสีสันของฤดูใบไม้ร่วงกับ{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Temukan Rahasia Musim Gugur",
-          "body-v1": "Petualangan musim gugur: {{activityName}}!"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Uncover Autumn's Secrets",
+            "body-v1": "Explore the colors of fall with {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "揭開秋季的祕密",
+            "body-v1": "秋色中體驗{{activityName}}"
+          },
+          "zh-TW": {
+            "title-v1": "秋季祕境等你探索",
+            "body-v1": "秋季色彩與{{activityName}}同行"
+          },
+          "th-TH": {
+            "title-v1": "ค้นพบความลับของฤดูใบไม้ร่วง",
+            "body-v1": "สำรวจสีสันของฤดูใบไม้ร่วงกับ{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Temukan Rahasia Musim Gugur",
+            "body-v1": "Petualangan musim gugur: {{activityName}}!"
+          }
         }
       }
     }
   },
   "Hong Kong & Macau": {
     "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Spring into Hong Kong's Best!",
-          "body-v1": "Explore {{activityName}} this spring!",
-          "title-v2": "Discover Hidden Gems of {{countryName}}",
-          "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in {{countryName}} Await",
-          "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in {{countryName}}!",
-          "body-v4": "Exclusive deals at {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Spring into Hong Kong's Best!",
+            "body-v1": "Explore {{activityName}} this spring!",
+            "title-v2": "Discover Hidden Gems of {{countryName}}",
+            "body-v2": "Explore secret spots: {{activityName}}!",
+            "title-v3": "New Discoveries in {{countryName}} Await",
+            "body-v3": "Find what's new with {{activityName}}!",
+            "title-v4": "Special Attractions in {{countryName}}!",
+            "body-v4": "Exclusive deals at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "香港春季好去處",
+            "body-v1": "春天來臨，探索{{activityName}}",
+            "title-v2": "發現{{countryName}}隱藏景點",
+            "body-v2": "探秘隱藏地點：{{activityName}}！",
+            "title-v3": "{{countryName}}新發現等著你",
+            "body-v3": "體驗新奇事：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特別優惠",
+            "body-v4": "專享優惠：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "香港春季精選",
+            "body-v1": "春季來了，探索{{activityName}}",
+            "title-v2": "探索{{countryName}}的秘密景點",
+            "body-v2": "發現隱藏景點：{{activityName}}！",
+            "title-v3": "{{countryName}}新探索",
+            "body-v3": "尋找新體驗：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特惠",
+            "body-v4": "獨家優惠：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "สปริงนี้ ที่สุดของฮ่องกง!",
+            "body-v1": "สำรวจ{{activityName}}ในช่วงฤดูใบไม้ผลิ",
+            "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
+            "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
+            "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
+            "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
+            "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
+            "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Terbaik di Hong Kong Musim Semi!",
+            "body-v1": "Jelajahi {{activityName}} di musim semi!",
+            "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
+            "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
+            "title-v3": "Jelajahi Hal Baru di {{countryName}}",
+            "body-v3": "Temukan pengalaman baru: {{activityName}}!",
+            "title-v4": "Penawaran Spesial di {{countryName}}",
+            "body-v4": "Penawaran eksklusif di {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "香港春季好去處",
-          "body-v1": "春天來臨，探索{{activityName}}",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{activityName}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{activityName}}！"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Fun in Hong Kong",
+            "body-v1": "Summer fun at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "香港夏日樂無窮",
+            "body-v1": "夏日樂翻天，在{{activityName}}"
+          },
+          "zh-TW": {
+            "title-v1": "香港夏日趣",
+            "body-v1": "夏日歡樂，體驗{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "ความสนุกสนานในฮ่องกงช่วงหน้าร้อน",
+            "body-v1": "ความสนุกของหน้าร้อนที่{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Keseruan Musim Panas di Hong Kong",
+            "body-v1": "Keseruan musim panas di {{activityName}}!"
+          }
         },
-        "zh-TW": {
-          "title-v1": "香港春季精選",
-          "body-v1": "春季來了，探索{{activityName}}",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{activityName}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{activityName}}！"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Autumn Adventures in Hong Kong",
+            "body-v1": "Autumn colors at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "香港秋季探險",
+            "body-v1": "秋天的顏色，{{activityName}}體驗"
+          },
+          "zh-TW": {
+            "title-v1": "香港秋日探險",
+            "body-v1": "秋季色彩，探索{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "ผจญภัยในฮ่องกงช่วงฤดูใบไม้ร่วง",
+            "body-v1": "สีสันของฤดูใบไม้ร่วงที่{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Petualangan Musim Gugur di Hong Kong",
+            "body-v1": "Warna musim gugur di {{activityName}}!"
+          }
         },
-        "th-TH": {
-          "title-v1": "สปริงนี้ ที่สุดของฮ่องกง!",
-          "body-v1": "สำรวจ{{activityName}}ในช่วงฤดูใบไม้ผลิ",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Terbaik di Hong Kong Musim Semi!",
-          "body-v1": "Jelajahi {{activityName}} di musim semi!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{activityName}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{activityName}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun in Hong Kong",
-          "body-v1": "Summer fun at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港夏日樂無窮",
-          "body-v1": "夏日樂翻天，在{{activityName}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港夏日趣",
-          "body-v1": "夏日歡樂，體驗{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฮ่องกงช่วงหน้าร้อน",
-          "body-v1": "ความสนุกของหน้าร้อนที่{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas di Hong Kong",
-          "body-v1": "Keseruan musim panas di {{activityName}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures in Hong Kong",
-          "body-v1": "Autumn colors at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港秋季探險",
-          "body-v1": "秋天的顏色，{{activityName}}體驗"
-        },
-        "zh-TW": {
-          "title-v1": "香港秋日探險",
-          "body-v1": "秋季色彩，探索{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฮ่องกงช่วงฤดูใบไม้ร่วง",
-          "body-v1": "สีสันของฤดูใบไม้ร่วงที่{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur di Hong Kong",
-          "body-v1": "Warna musim gugur di {{activityName}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders in Hong Kong",
-          "body-v1": "Winter magic at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港冬日奇蹟",
-          "body-v1": "冬日魔幻，{{activityName}}等你來探"
-        },
-        "zh-TW": {
-          "title-v1": "香港冬季奇景",
-          "body-v1": "冬季魔法，感受{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ในฮ่องกงช่วงฤดูหนาว",
-          "body-v1": "มนต์ขลังของฤดูหนาวที่{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin di Hong Kong",
-          "body-v1": "Keajaiban musim dingin di {{activityName}}!"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Winter Wonders in Hong Kong",
+            "body-v1": "Winter magic at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "香港冬日奇蹟",
+            "body-v1": "冬日魔幻，{{activityName}}等你來探"
+          },
+          "zh-TW": {
+            "title-v1": "香港冬季奇景",
+            "body-v1": "冬季魔法，感受{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "ความมหัศจรรย์ในฮ่องกงช่วงฤดูหนาว",
+            "body-v1": "มนต์ขลังของฤดูหนาวที่{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Keajaiban Musim Dingin di Hong Kong",
+            "body-v1": "Keajaiban musim dingin di {{activityName}}!"
+          }
         }
       }
     },
     "Mobility": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Spring Rides in Hong Kong",
-          "body-v1": "Ride through spring with {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Spring Rides in Hong Kong",
+            "body-v1": "Ride through spring with {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "香港春季行",
+            "body-v1": "春季透過{{activityName}}遊走香港"
+          },
+          "zh-TW": {
+            "title-v1": "香港春季遊",
+            "body-v1": "春天來臨，買{{activityName}}遊香港"
+          },
+          "th-TH": {
+            "title-v1": "ขี่ในฮ่องกงช่วงฤดูใบไม้ผลิ",
+            "body-v1": "ขี่{{activityName}}ผ่านฤดูใบไม้ผลิในฮ่องกง"
+          },
+          "id-ID": {
+            "title-v1": "Naik Musim Semi di Hong Kong",
+            "body-v1": "Nikmati musim semi dengan {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "香港春季行",
-          "body-v1": "春季透過{{activityName}}遊走香港"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Cruises in Hong Kong",
+            "body-v1": "Cruise this summer with {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "香港夏季巡航",
+            "body-v1": "夏季與{{activityName}}同行"
+          },
+          "zh-TW": {
+            "title-v1": "香港夏日巡航",
+            "body-v1": "夏日涼風，購入{{activityName}}同遊"
+          },
+          "th-TH": {
+            "title-v1": "ล่องเรือในฮ่องกงช่วงฤดูร้อน",
+            "body-v1": "ล่องเรือในฤดูร้อนนี้กับ{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Pesiar Musim Panas di Hong Kong",
+            "body-v1": "Pesiar musim panas ini dengan {{activityName}}!"
+          }
         },
-        "zh-TW": {
-          "title-v1": "香港春季遊",
-          "body-v1": "春天來臨，買{{activityName}}遊香港"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Autumn Rides in Hong Kong",
+            "body-v1": "Autumn journeys with {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "香港秋季遊車",
+            "body-v1": "秋日旅程，選擇{{activityName}}"
+          },
+          "zh-TW": {
+            "title-v1": "香港秋季騎行",
+            "body-v1": "秋季旅行，選{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "ขี่ในฮ่องกงช่วงฤดูใบไม้ร่วง",
+            "body-v1": "ท่องเที่ยวฤดูใบไม้ร่วงกับ{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Berkendara Musim Gugur di Hong Kong",
+            "body-v1": "Petualangan musim gugur dengan {{activityName}}!"
+          }
         },
-        "th-TH": {
-          "title-v1": "ขี่ในฮ่องกงช่วงฤดูใบไม้ผลิ",
-          "body-v1": "ขี่{{activityName}}ผ่านฤดูใบไม้ผลิในฮ่องกง"
-        },
-        "id-ID": {
-          "title-v1": "Naik Musim Semi di Hong Kong",
-          "body-v1": "Nikmati musim semi dengan {{activityName}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Cruises in Hong Kong",
-          "body-v1": "Cruise this summer with {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港夏季巡航",
-          "body-v1": "夏季與{{activityName}}同行"
-        },
-        "zh-TW": {
-          "title-v1": "香港夏日巡航",
-          "body-v1": "夏日涼風，購入{{activityName}}同遊"
-        },
-        "th-TH": {
-          "title-v1": "ล่องเรือในฮ่องกงช่วงฤดูร้อน",
-          "body-v1": "ล่องเรือในฤดูร้อนนี้กับ{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Pesiar Musim Panas di Hong Kong",
-          "body-v1": "Pesiar musim panas ini dengan {{activityName}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Rides in Hong Kong",
-          "body-v1": "Autumn journeys with {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港秋季遊車",
-          "body-v1": "秋日旅程，選擇{{activityName}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港秋季騎行",
-          "body-v1": "秋季旅行，選{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "ขี่ในฮ่องกงช่วงฤดูใบไม้ร่วง",
-          "body-v1": "ท่องเที่ยวฤดูใบไม้ร่วงกับ{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Berkendara Musim Gugur di Hong Kong",
-          "body-v1": "Petualangan musim gugur dengan {{activityName}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Drives in Hong Kong",
-          "body-v1": "Navigate winter with {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港冬季駕駛",
-          "body-v1": "冬季導航，選{{activityName}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港冬季開車",
-          "body-v1": "冬天導航，依靠{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "ขับขี่ในฮ่องกงช่วงฤดูหนาว",
-          "body-v1": "นำทางฤดูหนาวด้วย{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Mengemudi Musim Dingin di Hong Kong",
-          "body-v1": "Jelajahi musim dingin dengan {{activityName}}!"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Winter Drives in Hong Kong",
+            "body-v1": "Navigate winter with {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "香港冬季駕駛",
+            "body-v1": "冬季導航，選{{activityName}}"
+          },
+          "zh-TW": {
+            "title-v1": "香港冬季開車",
+            "body-v1": "冬天導航，依靠{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "ขับขี่ในฮ่องกงช่วงฤดูหนาว",
+            "body-v1": "นำทางฤดูหนาวด้วย{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Mengemudi Musim Dingin di Hong Kong",
+            "body-v1": "Jelajahi musim dingin dengan {{activityName}}!"
+          }
         }
       }
     },
     "Theme Park": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Spring Tours in Hong Kong",
-          "body-v1": "See {{activityName}} in spring bloom!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Spring Tours in Hong Kong",
+            "body-v1": "See {{activityName}} in spring bloom!"
+          },
+          "zh-HK": {
+            "title-v1": "香港春季導覽",
+            "body-v1": "春季賞花，探索{{activityName}}"
+          },
+          "zh-TW": {
+            "title-v1": "香港春天旅遊",
+            "body-v1": "春天花開，探訪{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "ทัวร์ฮ่องกงในฤดูใบไม้ผลิ",
+            "body-v1": "ชม{{activityName}}ในช่วงดอกไม้บาน"
+          },
+          "id-ID": {
+            "title-v1": "Tur Musim Semi di Hong Kong",
+            "body-v1": "Lihat {{activityName}} bermekaran di musim semi!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "香港春季導覽",
-          "body-v1": "春季賞花，探索{{activityName}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港春天旅遊",
-          "body-v1": "春天花開，探訪{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "ทัวร์ฮ่องกงในฤดูใบไม้ผลิ",
-          "body-v1": "ชม{{activityName}}ในช่วงดอกไม้บาน"
-        },
-        "id-ID": {
-          "title-v1": "Tur Musim Semi di Hong Kong",
-          "body-v1": "Lihat {{activityName}} bermekaran di musim semi!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Sights in Hong Kong",
-          "body-v1": "Summer vibes at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港夏季景點",
-          "body-v1": "夏日風情，體驗{{activityName}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港夏季觀光",
-          "body-v1": "夏日氣息，體驗{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "แหล่งท่องเที่ยวฮ่องกงในฤดูร้อน",
-          "body-v1": "บรรยากาศฤดูร้อนที่{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Tempat Wisata Musim Panas di Hong Kong",
-          "body-v1": "Rasakan suasana musim panas di {{activityName}}!"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Sights in Hong Kong",
+            "body-v1": "Summer vibes at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "香港夏季景點",
+            "body-v1": "夏日風情，體驗{{activityName}}"
+          },
+          "zh-TW": {
+            "title-v1": "香港夏季觀光",
+            "body-v1": "夏日氣息，體驗{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "แหล่งท่องเที่ยวฮ่องกงในฤดูร้อน",
+            "body-v1": "บรรยากาศฤดูร้อนที่{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Tempat Wisata Musim Panas di Hong Kong",
+            "body-v1": "Rasakan suasana musim panas di {{activityName}}!"
+          }
         }
       }
     },
     "Spa & Massage": {
-      "Q3": {
-        "en-US": {
-          "title-v1": "Explore Autumn in Hong Kong",
-          "body-v1": "Autumn colors await at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "探索香港的秋天",
-          "body-v1": "秋天的顏色，{{activityName}}等你"
-        },
-        "zh-TW": {
-          "title-v1": "體驗香港秋季",
-          "body-v1": "秋季色彩，{{activityName}}等你來體驗"
-        },
-        "th-TH": {
-          "title-v1": "สำรวจฮ่องกงในฤดูใบไม้ร่วง",
-          "body-v1": "สีสันของฤดูใบไม้ร่วงที่{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Jelajahi Musim Gugur di Hong Kong",
-          "body-v1": "Warna musim gugur menanti di {{activityName}}!"
+      "seasons": {
+        "Q3": {
+          "en-US": {
+            "title-v1": "Explore Autumn in Hong Kong",
+            "body-v1": "Autumn colors await at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "探索香港的秋天",
+            "body-v1": "秋天的顏色，{{activityName}}等你"
+          },
+          "zh-TW": {
+            "title-v1": "體驗香港秋季",
+            "body-v1": "秋季色彩，{{activityName}}等你來體驗"
+          },
+          "th-TH": {
+            "title-v1": "สำรวจฮ่องกงในฤดูใบไม้ร่วง",
+            "body-v1": "สีสันของฤดูใบไม้ร่วงที่{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Jelajahi Musim Gugur di Hong Kong",
+            "body-v1": "Warna musim gugur menanti di {{activityName}}!"
+          }
         }
       }
     },
     "Observation Decks & Towers": {
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders of Hong Kong",
-          "body-v1": "Discover winter magic at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港冬季奇觀",
-          "body-v1": "冬季魔幻，探索{{activityName}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港冬季的奇景",
-          "body-v1": "冬季奇幻，探索{{activityName}}"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ฮ่องกงในฤดูหนาว",
-          "body-v1": "ค้นพบความมหัศจรรย์ในฤดูหนาวที่{{activityName}}"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin di Hong Kong",
-          "body-v1": "Temukan keajaiban musim dingin di {{activityName}}!"
+      "seasons": {
+        "Q4": {
+          "en-US": {
+            "title-v1": "Winter Wonders of Hong Kong",
+            "body-v1": "Discover winter magic at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "香港冬季奇觀",
+            "body-v1": "冬季魔幻，探索{{activityName}}"
+          },
+          "zh-TW": {
+            "title-v1": "香港冬季的奇景",
+            "body-v1": "冬季奇幻，探索{{activityName}}"
+          },
+          "th-TH": {
+            "title-v1": "ความมหัศจรรย์ฮ่องกงในฤดูหนาว",
+            "body-v1": "ค้นพบความมหัศจรรย์ในฤดูหนาวที่{{activityName}}"
+          },
+          "id-ID": {
+            "title-v1": "Keajaiban Musim Dingin di Hong Kong",
+            "body-v1": "Temukan keajaiban musim dingin di {{activityName}}!"
+          }
         }
       }
     },
     "T&A": {
-      "Q1": {
-        "en-US": {
-          "title-v2": "Discover Hong Kong's Hidden Gems",
-          "body-v2": "Explore secrets with {{activityName}}!",
-          "title-v3": "New Adventures in Hong Kong Await",
-          "body-v3": "Discover new with {{activityName}}!",
-          "title-v4": "Exclusive Offers in Hong Kong!",
-          "body-v4": "Special deals at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v2": "探索香港隱藏寶藏",
-          "body-v2": "發掘隱秘：{{activityName}}！",
-          "title-v3": "香港新冒險等你發掘",
-          "body-v3": "探索新體驗：{{activityName}}！",
-          "title-v4": "香港獨家優惠",
-          "body-v4": "專享{{activityName}}優惠！"
-        },
-        "zh-TW": {
-          "title-v2": "發現香港的秘密寶藏",
-          "body-v2": "探索隱藏的{{activityName}}！",
-          "title-v3": "香港新探險",
-          "body-v3": "發現新活動：{{activityName}}！",
-          "title-v4": "香港特別優惠",
-          "body-v4": "{{activityName}}專屬優惠！"
-        },
-        "th-TH": {
-          "title-v2": "ค้นพบสมบัติซ่อนเร้นของฮ่องกง",
-          "body-v2": "สำรวจ{{activityName}} ที่ซ่อนอยู่!",
-          "title-v3": "ผจญภัยใหม่ๆ ในฮ่องกง",
-          "body-v3": "ค้นหา{{activityName}} สิ่งใหม่ๆ!",
-          "title-v4": "ข้อเสนอพิเศษในฮ่องกง",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v2": "Temukan Permata Tersembunyi Hong Kong",
-          "body-v2": "Jelajahi tersembunyi: {{activityName}}!",
-          "title-v3": "Petualangan Baru Menanti di Hong Kong",
-          "body-v3": "Temukan kegiatan baru: {{activityName}}!",
-          "title-v4": "Penawaran Spesial di Hong Kong",
-          "body-v4": "Penawaran khusus di {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v2": "Discover Hong Kong's Hidden Gems",
+            "body-v2": "Explore secrets with {{activityName}}!",
+            "title-v3": "New Adventures in Hong Kong Await",
+            "body-v3": "Discover new with {{activityName}}!",
+            "title-v4": "Exclusive Offers in Hong Kong!",
+            "body-v4": "Special deals at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v2": "探索香港隱藏寶藏",
+            "body-v2": "發掘隱秘：{{activityName}}！",
+            "title-v3": "香港新冒險等你發掘",
+            "body-v3": "探索新體驗：{{activityName}}！",
+            "title-v4": "香港獨家優惠",
+            "body-v4": "專享{{activityName}}優惠！"
+          },
+          "zh-TW": {
+            "title-v2": "發現香港的秘密寶藏",
+            "body-v2": "探索隱藏的{{activityName}}！",
+            "title-v3": "香港新探險",
+            "body-v3": "發現新活動：{{activityName}}！",
+            "title-v4": "香港特別優惠",
+            "body-v4": "{{activityName}}專屬優惠！"
+          },
+          "th-TH": {
+            "title-v2": "ค้นพบสมบัติซ่อนเร้นของฮ่องกง",
+            "body-v2": "สำรวจ{{activityName}} ที่ซ่อนอยู่!",
+            "title-v3": "ผจญภัยใหม่ๆ ในฮ่องกง",
+            "body-v3": "ค้นหา{{activityName}} สิ่งใหม่ๆ!",
+            "title-v4": "ข้อเสนอพิเศษในฮ่องกง",
+            "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v2": "Temukan Permata Tersembunyi Hong Kong",
+            "body-v2": "Jelajahi tersembunyi: {{activityName}}!",
+            "title-v3": "Petualangan Baru Menanti di Hong Kong",
+            "body-v3": "Temukan kegiatan baru: {{activityName}}!",
+            "title-v4": "Penawaran Spesial di Hong Kong",
+            "body-v4": "Penawaran khusus di {{activityName}}!"
+          }
         }
       }
     }
   },
   "Thailand": {
     "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Celebrate New Year in Thailand!",
-          "body-v1": "Ring in new with {{activityName}}!",
-          "title-v2": "Discover Hidden Gems of Thailand",
-          "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in Thailand Await",
-          "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in Thailand!",
-          "body-v4": "Exclusive deals at {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Celebrate New Year in Thailand!",
+            "body-v1": "Ring in new with {{activityName}}!",
+            "title-v2": "Discover Hidden Gems of Thailand",
+            "body-v2": "Explore secret spots: {{activityName}}!",
+            "title-v3": "New Discoveries in Thailand Await",
+            "body-v3": "Find what's new with {{activityName}}!",
+            "title-v4": "Special Attractions in Thailand!",
+            "body-v4": "Exclusive deals at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "泰國新年慶典",
+            "body-v1": "新年慶祝：{{activityName}}！",
+            "title-v2": "發現{{countryName}}隱藏景點",
+            "body-v2": "探秘隱藏地點：{{activityName}}！",
+            "title-v3": "{{countryName}}新發現等著你",
+            "body-v3": "體驗新奇事：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特別優惠",
+            "body-v4": "專享優惠：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "泰國新年慶祝",
+            "body-v1": "新年好去處：{{activityName}}！",
+            "title-v2": "探索{{countryName}}的秘密景點",
+            "body-v2": "發現隱藏景點：{{activityName}}！",
+            "title-v3": "{{countryName}}新探索",
+            "body-v3": "尋找新體驗：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特惠",
+            "body-v4": "獨家優惠：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ฉลองปีใหม่ในไทย",
+            "body-v1": "ฉลองที่{{activityName}}!",
+            "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
+            "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
+            "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
+            "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
+            "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
+            "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Rayakan Tahun Baru di Thailand!",
+            "body-v1": "Sambut baru di {{activityName}}!",
+            "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
+            "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
+            "title-v3": "Jelajahi Hal Baru di {{countryName}}",
+            "body-v3": "Temukan pengalaman baru: {{activityName}}!",
+            "title-v4": "Penawaran Spesial di {{countryName}}",
+            "body-v4": "Penawaran eksklusif di {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "泰國新年慶典",
-          "body-v1": "新年慶祝：{{activityName}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{activityName}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{activityName}}！"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Splash into Thai Songkran!",
+            "body-v1": "Get soaked at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "泰國潑水節",
+            "body-v1": "潑水節狂歡：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "泰國潑水節慶祝",
+            "body-v1": "體驗潑水節：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "สนุกกับเทศกาลสงกรานต์",
+            "body-v1": "เล่นน้ำที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Meriahkan Songkran di Thailand!",
+            "body-v1": "Basah-basahan di {{activityName}}!"
+          }
         },
-        "zh-TW": {
-          "title-v1": "泰國新年慶祝",
-          "body-v1": "新年好去處：{{activityName}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{activityName}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{activityName}}！"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Experience Thai Vegetarian Festival!",
+            "body-v1": "Go green at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "泰國素食節",
+            "body-v1": "素食節體驗：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "體驗泰國素食節",
+            "body-v1": "素食體驗：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ลองเทศกาลมังสวิรัติไทย",
+            "body-v1": "ลิ้มรสที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Festival Vegetarian Thailand!",
+            "body-v1": "Rasakan vegetarian di {{activityName}}!"
+          }
         },
-        "th-TH": {
-          "title-v1": "ฉลองปีใหม่ในไทย",
-          "body-v1": "ฉลองที่{{activityName}}!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Rayakan Tahun Baru di Thailand!",
-          "body-v1": "Sambut baru di {{activityName}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{activityName}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{activityName}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Splash into Thai Songkran!",
-          "body-v1": "Get soaked at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "泰國潑水節",
-          "body-v1": "潑水節狂歡：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "泰國潑水節慶祝",
-          "body-v1": "體驗潑水節：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "สนุกกับเทศกาลสงกรานต์",
-          "body-v1": "เล่นน้ำที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Meriahkan Songkran di Thailand!",
-          "body-v1": "Basah-basahan di {{activityName}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Experience Thai Vegetarian Festival!",
-          "body-v1": "Go green at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "泰國素食節",
-          "body-v1": "素食節體驗：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "體驗泰國素食節",
-          "body-v1": "素食體驗：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ลองเทศกาลมังสวิรัติไทย",
-          "body-v1": "ลิ้มรสที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Festival Vegetarian Thailand!",
-          "body-v1": "Rasakan vegetarian di {{activityName}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Light Up the Night at Loy Krathong!",
-          "body-v1": "Celebrate light at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "泰國水燈節",
-          "body-v1": "水燈節慶典：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "泰國浮燈節",
-          "body-v1": "浮燈體驗：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ประทีปแสงสีในลอยกระทง",
-          "body-v1": "ลอยกระทงที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Rayakan Loy Krathong di Thailand!",
-          "body-v1": "Rayakan cahaya di {{activityName}}!"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Light Up the Night at Loy Krathong!",
+            "body-v1": "Celebrate light at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "泰國水燈節",
+            "body-v1": "水燈節慶典：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "泰國浮燈節",
+            "body-v1": "浮燈體驗：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ประทีปแสงสีในลอยกระทง",
+            "body-v1": "ลอยกระทงที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Rayakan Loy Krathong di Thailand!",
+            "body-v1": "Rayakan cahaya di {{activityName}}!"
+          }
         }
       }
     }
   },
   "South Korea": {
     "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Explore Cherry Blossoms in Korea!",
-          "body-v1": "Bloom with {{activityName}}!",
-          "title-v2": "Discover Hidden Gems of South Korea",
-          "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in South Korea Await",
-          "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in South Korea!",
-          "body-v4": "Exclusive deals at {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Explore Cherry Blossoms in Korea!",
+            "body-v1": "Bloom with {{activityName}}!",
+            "title-v2": "Discover Hidden Gems of South Korea",
+            "body-v2": "Explore secret spots: {{activityName}}!",
+            "title-v3": "New Discoveries in South Korea Await",
+            "body-v3": "Find what's new with {{activityName}}!",
+            "title-v4": "Special Attractions in South Korea!",
+            "body-v4": "Exclusive deals at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "韓國賞櫻",
+            "body-v1": "賞櫻去處：{{activityName}}！",
+            "title-v2": "發現{{countryName}}隱藏景點",
+            "body-v2": "探秘隱藏地點：{{activityName}}！",
+            "title-v3": "{{countryName}}新發現等著你",
+            "body-v3": "體驗新奇事：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特別優惠",
+            "body-v4": "專享優惠：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "韓國櫻花季",
+            "body-v1": "櫻花盛開：{{activityName}}！",
+            "title-v2": "探索{{countryName}}的秘密景點",
+            "body-v2": "發現隱藏景點：{{activityName}}！",
+            "title-v3": "{{countryName}}新探索",
+            "body-v3": "尋找新體驗：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特惠",
+            "body-v4": "獨家優惠：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ชมดอกซากุระในเกาหลี",
+            "body-v1": "ชม{{activityName}} ดอกไม้บาน!",
+            "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
+            "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
+            "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
+            "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
+            "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
+            "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Musim Sakura di Korea!",
+            "body-v1": "Nikmati Sakura di {{activityName}}!",
+            "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
+            "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
+            "title-v3": "Jelajahi Hal Baru di {{countryName}}",
+            "body-v3": "Temukan pengalaman baru: {{activityName}}!",
+            "title-v4": "Penawaran Spesial di {{countryName}}",
+            "body-v4": "Penawaran eksklusif di {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "韓國賞櫻",
-          "body-v1": "賞櫻去處：{{activityName}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{activityName}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{activityName}}！"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Fun",
+            "body-v1": "Summer vibes at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "夏日精彩：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "夏季慶典：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ความสนุกสนานในฤดูร้อน",
+            "body-v1": "ฤดูร้อนนี้ที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Keseruan Musim Panas",
+            "body-v1": "Rasakan musim panas di {{activityName}}!"
+          }
         },
-        "zh-TW": {
-          "title-v1": "韓國櫻花季",
-          "body-v1": "櫻花盛開：{{activityName}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{activityName}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{activityName}}！"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Autumn Adventures",
+            "body-v1": "Harvest joy at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "秋日冒險",
+            "body-v1": "秋夕慶祝：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "秋日冒險",
+            "body-v1": "慶祝秋夕：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
+            "body-v1": "ฉลอง{{activityName}} วันเชือก!"
+          },
+          "id-ID": {
+            "title-v1": "Petualangan Musim Gugur",
+            "body-v1": "Rayakan panen di {{activityName}}!"
+          }
         },
-        "th-TH": {
-          "title-v1": "ชมดอกซากุระในเกาหลี",
-          "body-v1": "ชม{{activityName}} ดอกไม้บาน!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Musim Sakura di Korea!",
-          "body-v1": "Nikmati Sakura di {{activityName}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{activityName}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{activityName}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Summer vibes at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏日精彩：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏季慶典：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ฤดูร้อนนี้ที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas di {{activityName}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Harvest joy at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "秋夕慶祝：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "慶祝秋夕：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "ฉลอง{{activityName}} วันเชือก!"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Rayakan panen di {{activityName}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Ski the winter at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬日滑雪：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬季滑雪：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "สกีฤดูหนาวที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Nikmati ski di {{activityName}}!"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Winter Wonders",
+            "body-v1": "Ski the winter at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "冬季奇景",
+            "body-v1": "冬日滑雪：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "冬季奇景",
+            "body-v1": "冬季滑雪：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
+            "body-v1": "สกีฤดูหนาวที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Keajaiban Musim Dingin",
+            "body-v1": "Nikmati ski di {{activityName}}!"
+          }
         }
       }
     }
   },
   "Taiwan": {
     "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Explore Cherry Blossoms in Taiwan!",
-          "body-v1": "Welcome spring at {{activityName}}!",
-          "title-v2": "Discover Hidden Gems of Taiwan",
-          "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in Taiwan Await",
-          "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in Taiwan!",
-          "body-v4": "Exclusive deals at {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Explore Cherry Blossoms in Taiwan!",
+            "body-v1": "Welcome spring at {{activityName}}!",
+            "title-v2": "Discover Hidden Gems of Taiwan",
+            "body-v2": "Explore secret spots: {{activityName}}!",
+            "title-v3": "New Discoveries in Taiwan Await",
+            "body-v3": "Find what's new with {{activityName}}!",
+            "title-v4": "Special Attractions in Taiwan!",
+            "body-v4": "Exclusive deals at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "台灣賞櫻",
+            "body-v1": "春天來了：{{activityName}}！",
+            "title-v2": "發現{{countryName}}隱藏景點",
+            "body-v2": "探秘隱藏地點：{{activityName}}！",
+            "title-v3": "{{countryName}}新發現等著你",
+            "body-v3": "體驗新奇事：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特別優惠",
+            "body-v4": "專享優惠：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "台灣櫻花季",
+            "body-v1": "迎接春天：{{activityName}}！",
+            "title-v2": "探索{{countryName}}的秘密景點",
+            "body-v2": "發現隱藏景點：{{activityName}}！",
+            "title-v3": "{{countryName}}新探索",
+            "body-v3": "尋找新體驗：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特惠",
+            "body-v4": "獨家優惠：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ชมดอกซากุระในไต้หวัน",
+            "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{activityName}}!",
+            "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
+            "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
+            "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
+            "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
+            "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
+            "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Musim Sakura di Taiwan!",
+            "body-v1": "Sambut musim semi di {{activityName}}!",
+            "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
+            "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
+            "title-v3": "Jelajahi Hal Baru di {{countryName}}",
+            "body-v3": "Temukan pengalaman baru: {{activityName}}!",
+            "title-v4": "Penawaran Spesial di {{countryName}}",
+            "body-v4": "Penawaran eksklusif di {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "台灣賞櫻",
-          "body-v1": "春天來了：{{activityName}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{activityName}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{activityName}}！"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Fun",
+            "body-v1": "Summer vibes at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "夏日精彩：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "夏季慶典：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ความสนุกสนานในฤดูร้อน",
+            "body-v1": "ฤดูร้อนนี้ที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Keseruan Musim Panas",
+            "body-v1": "Rasakan musim panas di {{activityName}}!"
+          }
         },
-        "zh-TW": {
-          "title-v1": "台灣櫻花季",
-          "body-v1": "迎接春天：{{activityName}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{activityName}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{activityName}}！"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Autumn Adventures",
+            "body-v1": "Embrace fall at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "秋日冒險",
+            "body-v1": "秋天的顏色：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "秋日冒險",
+            "body-v1": "感受秋色：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
+            "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Petualangan Musim Gugur",
+            "body-v1": "Rasakan musim gugur di {{activityName}}!"
+          }
         },
-        "th-TH": {
-          "title-v1": "ชมดอกซากุระในไต้หวัน",
-          "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{activityName}}!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Musim Sakura di Taiwan!",
-          "body-v1": "Sambut musim semi di {{activityName}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{activityName}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{activityName}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Summer vibes at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏日精彩：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏季慶典：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ฤดูร้อนนี้ที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas di {{activityName}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Embrace fall at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "秋天的顏色：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "感受秋色：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Rasakan musim gugur di {{activityName}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Experience winter at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬季體驗：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬天來臨：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "ฤดูหนาวนี้ที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Nikmati musim dingin di {{activityName}}!"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Winter Wonders",
+            "body-v1": "Experience winter at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "冬季奇景",
+            "body-v1": "冬季體驗：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "冬季奇景",
+            "body-v1": "冬天來臨：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
+            "body-v1": "ฤดูหนาวนี้ที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Keajaiban Musim Dingin",
+            "body-v1": "Nikmati musim dingin di {{activityName}}!"
+          }
         }
       }
     }
   },
   "Indonesia": {
     "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Springtime Attractions",
-          "body-v1": "Welcome spring at {{activityName}}!",
-          "title-v2": "Discover Hidden Gems of Indonesia",
-          "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in Indonesia Await",
-          "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in Indonesia!",
-          "body-v4": "Exclusive deals at {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Springtime Attractions",
+            "body-v1": "Welcome spring at {{activityName}}!",
+            "title-v2": "Discover Hidden Gems of Indonesia",
+            "body-v2": "Explore secret spots: {{activityName}}!",
+            "title-v3": "New Discoveries in Indonesia Await",
+            "body-v3": "Find what's new with {{activityName}}!",
+            "title-v4": "Special Attractions in Indonesia!",
+            "body-v4": "Exclusive deals at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "春天的景點",
+            "body-v1": "春天來了：{{activityName}}！",
+            "title-v2": "發現{{countryName}}隱藏景點",
+            "body-v2": "探秘隱藏地點：{{activityName}}！",
+            "title-v3": "{{countryName}}新發現等著你",
+            "body-v3": "體驗新奇事：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特別優惠",
+            "body-v4": "專享優惠：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "春天的景點",
+            "body-v1": "迎接春天：{{activityName}}！",
+            "title-v2": "探索{{countryName}}的秘密景點",
+            "body-v2": "發現隱藏景點：{{activityName}}！",
+            "title-v3": "{{countryName}}新探索",
+            "body-v3": "尋找新體驗：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特惠",
+            "body-v4": "獨家優惠：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
+            "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{activityName}}!",
+            "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
+            "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
+            "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
+            "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
+            "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
+            "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Daya Tarik Musim Semi",
+            "body-v1": "Sambut musim semi di {{activityName}}!",
+            "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
+            "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
+            "title-v3": "Jelajahi Hal Baru di {{countryName}}",
+            "body-v3": "Temukan pengalaman baru: {{activityName}}!",
+            "title-v4": "Penawaran Spesial di {{countryName}}",
+            "body-v4": "Penawaran eksklusif di {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "春天的景點",
-          "body-v1": "春天來了：{{activityName}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{activityName}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{activityName}}！"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Fun",
+            "body-v1": "Summer vibes at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "夏日精彩：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "夏季慶典：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ความสนุกสนานในฤดูร้อน",
+            "body-v1": "ฤดูร้อนนี้ที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Keseruan Musim Panas",
+            "body-v1": "Rasakan musim panas di {{activityName}}!"
+          }
         },
-        "zh-TW": {
-          "title-v1": "春天的景點",
-          "body-v1": "迎接春天：{{activityName}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{activityName}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{activityName}}！"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Autumn Adventures",
+            "body-v1": "Embrace fall at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "秋日冒險",
+            "body-v1": "秋天的顏色：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "秋日冒險",
+            "body-v1": "感受秋色：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
+            "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Petualangan Musim Gugur",
+            "body-v1": "Rasakan musim gugur di {{activityName}}!"
+          }
         },
-        "th-TH": {
-          "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
-          "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{activityName}}!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Daya Tarik Musim Semi",
-          "body-v1": "Sambut musim semi di {{activityName}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{activityName}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{activityName}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Summer vibes at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏日精彩：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏季慶典：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ฤดูร้อนนี้ที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas di {{activityName}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Embrace fall at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "秋天的顏色：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "感受秋色：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Rasakan musim gugur di {{activityName}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Experience winter at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬季體驗：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬天來臨：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "ฤดูหนาวนี้ที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Nikmati musim dingin di {{activityName}}!"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Winter Wonders",
+            "body-v1": "Experience winter at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "冬季奇景",
+            "body-v1": "冬季體驗：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "冬季奇景",
+            "body-v1": "冬天來臨：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
+            "body-v1": "ฤดูหนาวนี้ที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Keajaiban Musim Dingin",
+            "body-v1": "Nikmati musim dingin di {{activityName}}!"
+          }
         }
       }
     }
   },
   "Mainland China": {
     "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Springtime Attractions",
-          "body-v1": "Welcome spring at {{activityName}}!",
-          "title-v2": "Discover Hidden Gems of {{countryName}}",
-          "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in {{countryName}} Await",
-          "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in {{countryName}}!",
-          "body-v4": "Exclusive deals at {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Springtime Attractions",
+            "body-v1": "Welcome spring at {{activityName}}!",
+            "title-v2": "Discover Hidden Gems of {{countryName}}",
+            "body-v2": "Explore secret spots: {{activityName}}!",
+            "title-v3": "New Discoveries in {{countryName}} Await",
+            "body-v3": "Find what's new with {{activityName}}!",
+            "title-v4": "Special Attractions in {{countryName}}!",
+            "body-v4": "Exclusive deals at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "春天的景點",
+            "body-v1": "春天來了：{{activityName}}！",
+            "title-v2": "發現{{countryName}}隱藏景點",
+            "body-v2": "探秘隱藏地點：{{activityName}}！",
+            "title-v3": "{{countryName}}新發現等著你",
+            "body-v3": "體驗新奇事：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特別優惠",
+            "body-v4": "專享優惠：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "春天的景點",
+            "body-v1": "迎接春天：{{activityName}}！",
+            "title-v2": "探索{{countryName}}的秘密景點",
+            "body-v2": "發現隱藏景點：{{activityName}}！",
+            "title-v3": "{{countryName}}新探索",
+            "body-v3": "尋找新體驗：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特惠",
+            "body-v4": "獨家優惠：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
+            "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{activityName}}!",
+            "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
+            "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
+            "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
+            "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
+            "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
+            "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Daya Tarik Musim Semi",
+            "body-v1": "Sambut musim semi di {{activityName}}!",
+            "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
+            "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
+            "title-v3": "Jelajahi Hal Baru di {{countryName}}",
+            "body-v3": "Temukan pengalaman baru: {{activityName}}!",
+            "title-v4": "Penawaran Spesial di {{countryName}}",
+            "body-v4": "Penawaran eksklusif di {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "春天的景點",
-          "body-v1": "春天來了：{{activityName}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{activityName}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{activityName}}！"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Fun",
+            "body-v1": "Summer vibes at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "夏日精彩：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "夏季慶典：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ความสนุกสนานในฤดูร้อน",
+            "body-v1": "ฤดูร้อนนี้ที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Keseruan Musim Panas",
+            "body-v1": "Rasakan musim panas di {{activityName}}!"
+          }
         },
-        "zh-TW": {
-          "title-v1": "春天的景點",
-          "body-v1": "迎接春天：{{activityName}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{activityName}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{activityName}}！"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Autumn Adventures",
+            "body-v1": "Embrace fall at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "秋日冒險",
+            "body-v1": "秋天的顏色：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "秋日冒險",
+            "body-v1": "感受秋色：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
+            "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Petualangan Musim Gugur",
+            "body-v1": "Rasakan musim gugur di {{activityName}}!"
+          }
         },
-        "th-TH": {
-          "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
-          "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{activityName}}!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Daya Tarik Musim Semi",
-          "body-v1": "Sambut musim semi di {{activityName}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{activityName}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{activityName}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Summer vibes at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏日精彩：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏季慶典：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ฤดูร้อนนี้ที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas di {{activityName}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Embrace fall at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "秋天的顏色：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "感受秋色：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Rasakan musim gugur di {{activityName}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Experience winter at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬季體驗：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬天來臨：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "ฤดูหนาวนี้ที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Nikmati musim dingin di {{activityName}}!"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Winter Wonders",
+            "body-v1": "Experience winter at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "冬季奇景",
+            "body-v1": "冬季體驗：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "冬季奇景",
+            "body-v1": "冬天來臨：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
+            "body-v1": "ฤดูหนาวนี้ที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Keajaiban Musim Dingin",
+            "body-v1": "Nikmati musim dingin di {{activityName}}!"
+          }
         }
       }
     }
   },
   "Generic": {
     "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Springtime Attractions",
-          "body-v1": "Welcome spring at {{activityName}}!",
-          "title-v2": "Discover Hidden Gems of {{countryName}}",
-          "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in {{countryName}} Await",
-          "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in {{countryName}}!",
-          "body-v4": "Exclusive deals at {{activityName}}!"
+      "seasons": {
+        "Q1": {
+          "en-US": {
+            "title-v1": "Springtime Attractions",
+            "body-v1": "Welcome spring at {{activityName}}!",
+            "title-v2": "Discover Hidden Gems of {{countryName}}",
+            "body-v2": "Explore secret spots: {{activityName}}!",
+            "title-v3": "New Discoveries in {{countryName}} Await",
+            "body-v3": "Find what's new with {{activityName}}!",
+            "title-v4": "Special Attractions in {{countryName}}!",
+            "body-v4": "Exclusive deals at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "春天的景點",
+            "body-v1": "春天來了：{{activityName}}！",
+            "title-v2": "發現{{countryName}}隱藏景點",
+            "body-v2": "探秘隱藏地點：{{activityName}}！",
+            "title-v3": "{{countryName}}新發現等著你",
+            "body-v3": "體驗新奇事：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特別優惠",
+            "body-v4": "專享優惠：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "春天的景點",
+            "body-v1": "迎接春天：{{activityName}}！",
+            "title-v2": "探索{{countryName}}的秘密景點",
+            "body-v2": "發現隱藏景點：{{activityName}}！",
+            "title-v3": "{{countryName}}新探索",
+            "body-v3": "尋找新體驗：{{activityName}}！",
+            "title-v4": "{{countryName}}景點特惠",
+            "body-v4": "獨家優惠：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
+            "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{activityName}}!",
+            "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
+            "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
+            "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
+            "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
+            "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
+            "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Daya Tarik Musim Semi",
+            "body-v1": "Sambut musim semi di {{activityName}}!",
+            "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
+            "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
+            "title-v3": "Jelajahi Hal Baru di {{countryName}}",
+            "body-v3": "Temukan pengalaman baru: {{activityName}}!",
+            "title-v4": "Penawaran Spesial di {{countryName}}",
+            "body-v4": "Penawaran eksklusif di {{activityName}}!"
+          }
         },
-        "zh-HK": {
-          "title-v1": "春天的景點",
-          "body-v1": "春天來了：{{activityName}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{activityName}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{activityName}}！"
+        "Q2": {
+          "en-US": {
+            "title-v1": "Summer Fun",
+            "body-v1": "Summer vibes at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "夏日精彩：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "夏日樂趣",
+            "body-v1": "夏季慶典：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ความสนุกสนานในฤดูร้อน",
+            "body-v1": "ฤดูร้อนนี้ที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Keseruan Musim Panas",
+            "body-v1": "Rasakan musim panas di {{activityName}}!"
+          }
         },
-        "zh-TW": {
-          "title-v1": "春天的景點",
-          "body-v1": "迎接春天：{{activityName}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{activityName}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{activityName}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{activityName}}！"
+        "Q3": {
+          "en-US": {
+            "title-v1": "Autumn Adventures",
+            "body-v1": "Embrace fall at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "秋日冒險",
+            "body-v1": "秋天的顏色：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "秋日冒險",
+            "body-v1": "感受秋色：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
+            "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Petualangan Musim Gugur",
+            "body-v1": "Rasakan musim gugur di {{activityName}}!"
+          }
         },
-        "th-TH": {
-          "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
-          "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{activityName}}!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{activityName}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{activityName}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Daya Tarik Musim Semi",
-          "body-v1": "Sambut musim semi di {{activityName}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{activityName}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{activityName}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{activityName}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Summer vibes at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏日精彩：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏季慶典：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ฤดูร้อนนี้ที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas di {{activityName}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Embrace fall at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "秋天的顏色：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "感受秋色：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Rasakan musim gugur di {{activityName}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Experience winter at {{activityName}}!"
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬季體驗：{{activityName}}！"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬天來臨：{{activityName}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "ฤดูหนาวนี้ที่{{activityName}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Nikmati musim dingin di {{activityName}}!"
+        "Q4": {
+          "en-US": {
+            "title-v1": "Winter Wonders",
+            "body-v1": "Experience winter at {{activityName}}!"
+          },
+          "zh-HK": {
+            "title-v1": "冬季奇景",
+            "body-v1": "冬季體驗：{{activityName}}！"
+          },
+          "zh-TW": {
+            "title-v1": "冬季奇景",
+            "body-v1": "冬天來臨：{{activityName}}！"
+          },
+          "th-TH": {
+            "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
+            "body-v1": "ฤดูหนาวนี้ที่{{activityName}}!"
+          },
+          "id-ID": {
+            "title-v1": "Keajaiban Musim Dingin",
+            "body-v1": "Nikmati musim dingin di {{activityName}}!"
+          }
         }
       }
     }
