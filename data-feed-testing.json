@@ -139,7 +139,7 @@
         "en-US": {
           "title-v1": "Spring into New Journeys!",
           "body-v1": "Explore {{activityName}}under the spring blooms in Japan.",
-          "title-v2": "Unveil {{countryName}}'s Hidden Routes",
+          "title-v2": "Unveil Japan's Hidden Routes",
           "body-v2": "Secret paths with {{activityName}}!",
           "title-v3": "Discover New Sides of {{countryName}}",
           "body-v3": "Explore anew with {{activityName}}!",
@@ -751,11 +751,11 @@
         "en-US": {
           "title-v1": "Celebrate New Year in Thailand!",
           "body-v1": "Ring in new with {{activityName}}!",
-          "title-v2": "Discover Hidden Gems of {{countryName}}",
+          "title-v2": "Discover Hidden Gems of Thailand",
           "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in {{countryName}} Await",
+          "title-v3": "New Discoveries in Thailand Await",
           "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in {{countryName}}!",
+          "title-v4": "Special Attractions in Thailand!",
           "body-v4": "Exclusive deals at {{activityName}}!"
         },
         "zh-HK": {
@@ -873,11 +873,11 @@
         "en-US": {
           "title-v1": "Explore Cherry Blossoms in Korea!",
           "body-v1": "Bloom with {{activityName}}!",
-          "title-v2": "Discover Hidden Gems of {{countryName}}",
+          "title-v2": "Discover Hidden Gems of South Korea",
           "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in {{countryName}} Await",
+          "title-v3": "New Discoveries in South Korea Await",
           "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in {{countryName}}!",
+          "title-v4": "Special Attractions in South Korea!",
           "body-v4": "Exclusive deals at {{activityName}}!"
         },
         "zh-HK": {
@@ -995,11 +995,11 @@
         "en-US": {
           "title-v1": "Explore Cherry Blossoms in Taiwan!",
           "body-v1": "Welcome spring at {{activityName}}!",
-          "title-v2": "Discover Hidden Gems of {{countryName}}",
+          "title-v2": "Discover Hidden Gems of Taiwan",
           "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in {{countryName}} Await",
+          "title-v3": "New Discoveries in Taiwan Await",
           "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in {{countryName}}!",
+          "title-v4": "Special Attractions in Taiwan!",
           "body-v4": "Exclusive deals at {{activityName}}!"
         },
         "zh-HK": {
@@ -1117,11 +1117,11 @@
         "en-US": {
           "title-v1": "Springtime Attractions",
           "body-v1": "Welcome spring at {{activityName}}!",
-          "title-v2": "Discover Hidden Gems of {{countryName}}",
+          "title-v2": "Discover Hidden Gems of Indonesia",
           "body-v2": "Explore secret spots: {{activityName}}!",
-          "title-v3": "New Discoveries in {{countryName}} Await",
+          "title-v3": "New Discoveries in Indonesia Await",
           "body-v3": "Find what's new with {{activityName}}!",
-          "title-v4": "Special Attractions in {{countryName}}!",
+          "title-v4": "Special Attractions in Indonesia!",
           "body-v4": "Exclusive deals at {{activityName}}!"
         },
         "zh-HK": {
