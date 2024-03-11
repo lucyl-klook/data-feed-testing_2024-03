@@ -1,103 +1,78 @@
 {
-    "country": "HK",
-    "locale": "en-US",
-    "date": "2024-03-01",
-    "verticals": {
-      "tna": [
-        {
-          "merchant_name": "Adventure World",
-          "highlight": "Explore the hidden gems of the city with a 20% discount"
-        },
-        {
-          "merchant_name": "Historical Tours Inc.",
-          "highlight": "Dive into history with our expert guides, now at 15% off"
-        },
-        {
-          "merchant_name": "Ocean Adventures",
-          "highlight": "Discover marine life on our snorkeling tour, now with 10% discount"
-        }
-      ],
-      "fnd": [
-        {
-          "merchant_name": "Gourmet Bites",
-          "highlight": "Taste the city's best flavors, now with a special tasting menu"
-        },
-        {
-          "merchant_name": "Street Food Tours",
-          "highlight": "Experience authentic street food with our guided evening tours"
-        }
-      ],
-      "staycation": [
-        {
-          "merchant_name": "City View Hotel",
-          "highlight": "Enjoy a luxury stay with panoramic city views at a 25% discount"
-        },
-        {
-          "merchant_name": "Beachside Retreat",
-          "highlight": "Relax by the sea with our special weekend getaway package"
-        }
-      ],
-      "spa": [
-        {
-          "merchant_name": "Tranquil Spa",
-          "highlight": "Indulge in a serene spa experience, now with complimentary aromatherapy"
-        },
-        {
-          "merchant_name": "Mountain Wellness",
-          "highlight": "Unwind with our mountain view spa treatments at an exclusive rate"
-        }
-      ]
+  "datafeed": [
+    {
+      "country": "HK",
+      "locale": "en-US",
+      "date": "2024-03-01",
+      "verticals": {
+        "generic": [
+          {
+            "merchant_name": "Merchant 1",
+            "highlight": "Special Offer 1"
+          }
+        ],
+        "tna": [
+          {
+            "merchant_name": "Merchant 2",
+            "highlight": "Special Tour Package"
+          }
+        ],
+        "fnd": [
+          {
+            "merchant_name": "Restaurant 1",
+            "highlight": "Exclusive Dinner Offer"
+          }
+        ],
+        "staycation": [
+          {
+            "merchant_name": "Hotel 1",
+            "highlight": "Weekend Staycation Deal"
+          }
+        ],
+        "spa": [
+          {
+            "merchant_name": "Spa 1",
+            "highlight": "Relaxation Package"
+          }
+        ]
+      }
+    },
+    {
+      "country": "HK",
+      "locale": "zh-HK",
+      "date": "2024-03-01",
+      "verticals": {
+        "generic": [
+          {
+            "merchant_name": "商戶一",
+            "highlight": "特別優惠一"
+          }
+        ],
+        "tna": [
+          {
+            "merchant_name": "商戶二",
+            "highlight": "特色旅遊套餐"
+          }
+        ],
+        "fnd": [
+          {
+            "merchant_name": "餐廳一",
+            "highlight": "專享晚餐優惠"
+          }
+        ],
+        "staycation": [
+          {
+            "merchant_name": "酒店一",
+            "highlight": "周末度假套餐"
+          }
+        ],
+        "spa": [
+          {
+            "merchant_name": "水療中心一",
+            "highlight": "放鬆套餐"
+          }
+        ]
+      }
     }
-  },
-  {
-    "country": "HK",
-    "locale": "zh-HK",
-    "date": "2024-03-01",
-    "verticals": {
-      "tna": [
-        {
-          "merchant_name": "冒险世界",
-          "highlight": "探索城市的隐藏宝藏，现在享有20%的折扣"
-        },
-        {
-          "merchant_name": "历史游览公司",
-          "highlight": "与我们的专家导游一起深入历史，现在享有15%的折扣"
-        },
-        {
-          "merchant_name": "海洋冒险",
-          "highlight": "在我们的浮潜之旅中发现海洋生活，现在享有10%的折扣"
-        }
-      ],
-      "fnd": [
-        {
-          "merchant_name": "美食小吃",
-          "highlight": "品尝城市最佳风味，现有特别品尝菜单"
-        },
-        {
-          "merchant_name": "街头美食游",
-          "highlight": "通过我们的导游晚上游，体验地道街头美食"
-        }
-      ],
-      "staycation": [
-        {
-          "merchant_name": "城市景观酒店",
-          "highlight": "享受豪华住宿，全景城市景观，享有25%的折扣"
-        },
-        {
-          "merchant_name": "海滨休闲处",
-          "highlight": "在我们的特别周末度假套餐中，放松在海边"
-        }
-      ],
-      "spa": [
-        {
-          "merchant_name": "宁静水疗中心",
-          "highlight": "沉浸在宁静的水疗体验中，现在附赠香薰治疗"
-        },
-        {
-          "merchant_name": "山景康体",
-          "highlight": "在我们的山景水疗治疗中放松，享受独家优惠"
-        }
-      ]
-    }
-  }
-
+  ]
+}
