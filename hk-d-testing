@@ -1,78 +1,76 @@
-{
-  "datafeed": [
-    {
-      "country": "HK",
-      "locale": "en-US",
-      "date": "2024-03-01",
-      "verticals": {
-        "generic": [
-          {
-            "merchant_name": "Merchant 1",
-            "highlight": "Special Offer 1"
-          }
-        ],
-        "tna": [
-          {
-            "merchant_name": "Merchant 2",
-            "highlight": "Special Tour Package"
-          }
-        ],
-        "fnd": [
-          {
-            "merchant_name": "Restaurant 1",
-            "highlight": "Exclusive Dinner Offer"
-          }
-        ],
-        "staycation": [
-          {
-            "merchant_name": "Hotel 1",
-            "highlight": "Weekend Staycation Deal"
-          }
-        ],
-        "spa": [
-          {
-            "merchant_name": "Spa 1",
-            "highlight": "Relaxation Package"
-          }
-        ]
-      }
-    },
-    {
-      "country": "HK",
-      "locale": "zh-HK",
-      "date": "2024-03-01",
-      "verticals": {
-        "generic": [
-          {
-            "merchant_name": "商戶一",
-            "highlight": "特別優惠一"
-          }
-        ],
-        "tna": [
-          {
-            "merchant_name": "商戶二",
-            "highlight": "特色旅遊套餐"
-          }
-        ],
-        "fnd": [
-          {
-            "merchant_name": "餐廳一",
-            "highlight": "專享晚餐優惠"
-          }
-        ],
-        "staycation": [
-          {
-            "merchant_name": "酒店一",
-            "highlight": "周末度假套餐"
-          }
-        ],
-        "spa": [
-          {
-            "merchant_name": "水療中心一",
-            "highlight": "放鬆套餐"
-          }
-        ]
-      }
+[
+  {
+    "country": "HK",
+    "locale": "en-US",
+    "date": "2024-03-01",
+    "verticals": {
+      "generic": [
+        {
+          "merchant_name": "Merchant 1",
+          "highlight": "Special Offer 1"
+        }
+      ],
+      "tna": [
+        {
+          "merchant_name": "Merchant 2",
+          "highlight": "Special Tour Package"
+        }
+      ],
+      "fnd": [
+        {
+          "merchant_name": "Restaurant 1",
+          "highlight": "Exclusive Dinner Offer"
+        }
+      ],
+      "staycation": [
+        {
+          "merchant_name": "Hotel 1",
+          "highlight": "Weekend Staycation Deal"
+        }
+      ],
+      "spa": [
+        {
+          "merchant_name": "Spa 1",
+          "highlight": "Relaxation Package"
+        }
+      ]
     }
-  ]
-}
+  },
+  {
+    "country": "HK",
+    "locale": "zh-HK",
+    "date": "2024-03-01",
+    "verticals": {
+      "generic": [
+        {
+          "merchant_name": "商戶一",
+          "highlight": "特別優惠一"
+        }
+      ],
+      "tna": [
+        {
+          "merchant_name": "商戶二",
+          "highlight": "特色旅遊套餐"
+        }
+      ],
+      "fnd": [
+        {
+          "merchant_name": "餐廳一",
+          "highlight": "專享晚餐優惠"
+        }
+      ],
+      "staycation": [
+        {
+          "merchant_name": "酒店一",
+          "highlight": "周末度假套餐"
+        }
+      ],
+      "spa": [
+        {
+          "merchant_name": "水療中心一",
+          "highlight": "放鬆套餐"
+        }
+      ]
+    }
+  }
+]
