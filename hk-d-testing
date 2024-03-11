@@ -1,5 +1,4 @@
 {
-  "datafeed": [
     {
       "country": "HK",
       "locale": "en-US",
@@ -74,5 +73,4 @@
         ]
       }
     }
-  ]
 }
