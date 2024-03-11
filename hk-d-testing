@@ -76,4 +76,29 @@
         },
         {
           "merchant_name": "街头美食游",
-          "highlight": "通过我们的导游晚上游，体验地道
+          "highlight": "通过我们的导游晚上游，体验地道街头美食"
+        }
+      ],
+      "staycation": [
+        {
+          "merchant_name": "城市景观酒店",
+          "highlight": "享受豪华住宿，全景城市景观，享有25%的折扣"
+        },
+        {
+          "merchant_name": "海滨休闲处",
+          "highlight": "在我们的特别周末度假套餐中，放松在海边"
+        }
+      ],
+      "spa": [
+        {
+          "merchant_name": "宁静水疗中心",
+          "highlight": "沉浸在宁静的水疗体验中，现在附赠香薰治疗"
+        },
+        {
+          "merchant_name": "山景康体",
+          "highlight": "在我们的山景水疗治疗中放松，享受独家优惠"
+        }
+      ]
+    }
+  }
+]
