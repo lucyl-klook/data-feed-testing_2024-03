@@ -1,3 +1,9 @@
+import json
+
+with open('hk-d-testing.json', 'r') as file:
+    datafeed = json.load(file)
+
+
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
