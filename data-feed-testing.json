@@ -6,13 +6,13 @@
           "title-v1": "Springtime Attractions",
           "body-v1": "Explore {\{\activityName_en_US\}\} under the spring blooms in Japan.",
           "title-v3": "Discover New Sides of Japan",
-          "body-v3": "Explore anew with {{aNa}}!",
+          "body-v3": "Explore anew with {{{{raw}}}}{{activityName_en_US}}{{{{/raw}}}}!",
           "title-v4": "Uncover Japan's Hidden Gems",
-          "body-v4": "Explore the secret: {{aNa}}!"
+          "body-v4": "Explore the secret: \{{activityName_en_US}} !"
         },
         "zh-HK": {
           "title-v1": "春天的景點",
-          "body-v1": "在春花下探索{{aNa}}，標誌性的日本景點。",
+          "body-v1": "在春花下探索 \{{activityName_zh_HK\}}，標誌性的日本景點。",
           "title-v3": "探索日本新面貌",
           "body-v3": "體驗新事物：{{aNa}}！",
           "title-v4": "揭秘日本隱藏景點",
