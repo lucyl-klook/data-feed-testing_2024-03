@@ -4,7 +4,7 @@
       "Q1": {
         "en-US": {
           "title-v1": "Springtime Attractions",
-          "body-v1": "Explore ##activityName_en_US## under the spring blooms in Japan.",
+          "body-v1": "Explore \"[[activityName_en_US]]\" under the spring blooms in Japan.",
           "title-v3": "Discover New Sides of Japan",
           "body-v3": "Explore anew with {{aNa}}!",
           "title-v4": "Uncover Japan's Hidden Gems",
