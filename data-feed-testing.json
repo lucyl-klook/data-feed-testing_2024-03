@@ -4,11 +4,11 @@
       "Q1": {
         "en-US": {
           "title-v1": "Springtime Attractions",
-          "body-v1": "Explore "\{{activityName_en_US}}\" under the spring blooms in Japan.",
+          "body-v1": "Explore "\{{{activityName_en_US}}}\" under the spring blooms in Japan.",
           "title-v3": "Discover New Sides of Japan",
           "body-v3": "Explore anew with {{{{raw}}}}{{activityName_en_US}}{{{{/raw}}}}!",
           "title-v4": "Uncover Japan's Hidden Gems",
-          "body-v4": "Explore the secret: \{{activityName_en_US}}\ !"
+          "body-v4": "Explore the secret: {{activityName_en_US}} !"
         },
         "zh-HK": {
           "title-v1": "春天的景點",
