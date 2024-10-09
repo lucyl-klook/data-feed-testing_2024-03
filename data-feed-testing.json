@@ -1,1480 +1,351 @@
 {
-  "Japan": {
-    "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Springtime Attractions",
-          "body-v1": "Explore [[activityName_en_US]] under the spring blooms in Japan.",
-          "title-v3": "Discover New Sides of Japan",
-          "body-v3": "Explore anew with {{{{raw}}}}{{activityName_en_US}}{{{{/raw}}}}!",
-          "title-v4": "Uncover Japan's {{#aj.[0]}}{{activityName_en_US}}{{/aj.[0]}}",
-          "body-v4": "Explore the secret: {{activityName_en_US}} !"
+    "activity_abandonment_recommendation":
+    {
+        "error":
+        {
+            "code": "",
+            "message": ""
         },
-        "zh-HK": {
-          "title-v1": "春天的景點",
-          "body-v1": "在春花下探索 {{{activityName_zh_HK}}}，標誌性的日本景點。",
-          "title-v3": "探索日本新面貌",
-          "body-v3": "體驗新事物：{{aNa}}！",
-          "title-v4": "揭秘日本隱藏景點",
-          "body-v4": "秘境探索：{{aNa}}！"
+        "result":
+        {
+            "more_title": "see more",
+            "more_deep_link": "",
+            "data":
+            [
+                {
+                    "activity_id": 2675,
+                    "title": "【中文／英语导游】富士山五合目河口湖御殿场outlets经典路线一日游（东京出发）",
+                    "sub_category_id": 2,
+                    "sold_out": false,
+                    "deeplink": "/zh-CN/activity/2675-mount-fuji-classic-route-day-tour-tokyo/",
+                    "seo": "参加富士山一日游，让中文专业导游带你走访富士山五合目、忍野八海、御殿场Premium Outlets等人气景点，费用含景点门票，带你轻松畅游！通过KLOOK预订，享超值富士山行程优惠，东京旅游必踩点！",
+                    "summaries":
+                    [
+                        "山梨县",
+                        "一日游"
+                    ],
+                    "brand_info":
+                    {
+                        "image_url": "https://res.klook.com/image/upload/activities/zsprkk56gubmcmrmyqmn.jpg",
+                        "image_alt": "富士山五合目河口湖御殿场奥特莱斯购物中心之旅（东京出发）",
+                        "video_url": "",
+                        "tags":
+                        [],
+                        "imgs": null,
+                        "img_infos":
+                        [
+                            {
+                                "full_url": "https://res.klook.com/image/upload/activities/zsprkk56gubmcmrmyqmn.jpg",
+                                "alt": "富士山五合目河口湖御殿场奥特莱斯购物中心之旅（东京出发）"
+                            },
+                            {
+                                "full_url": "https://res.klook.com/image/upload/activities/gqylevhdviybui2l3s6c.jpg",
+                                "alt": "富士山和秋叶的美景"
+                            },
+                            {
+                                "full_url": "https://res.klook.com/image/upload/activities/njxxidoshy68csa1earr.jpg",
+                                "alt": "忍野八海"
+                            },
+                            {
+                                "full_url": "https://res.klook.com/image/upload/activities/hxm4vtkqfxexglsinwww.jpg",
+                                "alt": "富士山五合目"
+                            },
+                            {
+                                "full_url": "https://res.klook.com/image/upload/activities/eeinajk4jwexr8jtqkjl.jpg",
+                                "alt": "清澈的池塘里有很多鱼"
+                            },
+                            {
+                                "full_url": "https://res.klook.com/image/upload/activities/pvbnycdmzwwei4fgvvae.jpg",
+                                "alt": "御殿场奥特莱斯购物中心"
+                            },
+                            {
+                                "full_url": "https://res.klook.com/image/upload/activities/k9edny5ypyabqltwjhef.jpg",
+                                "alt": "富士山一日游"
+                            },
+                            {
+                                "full_url": "https://res.klook.com/image/upload/activities/bg6hdj0aozjp8sf53sud.jpg",
+                                "alt": "枫树"
+                            }
+                        ]
+                    },
+                    "review":
+                    {
+                        "description": "",
+                        "score": "4.4",
+                        "number": "7,701",
+                        "booked": "100K+ 人参加过"
+                    },
+                    "price":
+                    {
+                        "symbol": "¥",
+                        "underline_price": "¥ 427",
+                        "from_price": "¥ 352",
+                        "sale_price": "",
+                        "save_price": "",
+                        "free_text": ""
+                    },
+                    "product_tags":
+                    {
+                        "attribute_tags":
+                        [
+                            {
+                                "type": 2,
+                                "text": "热卖",
+                                "text_color": "#757575",
+                                "background_color": "#F5F5F5",
+                                "background_alpha": 0,
+                                "border_color": "#F5F5F5",
+                                "radius": 2,
+                                "tag_key": "bestseller",
+                                "group_keys":
+                                [
+                                    "product_tag",
+                                    "content_tag"
+                                ],
+                                "track":
+                                {
+                                    "tag_id": 3064,
+                                    "tag_key": "bestseller"
+                                },
+                                "inner_vars":
+                                {
+                                    "inner":
+                                    {
+                                        "priority": 20000051,
+                                        "rel_priority": 909
+                                    }
+                                }
+                            },
+                            {
+                                "type": 2,
+                                "text": "提供中文",
+                                "text_color": "#757575",
+                                "background_color": "#F5F5F5",
+                                "background_alpha": 0,
+                                "border_color": "#F5F5F5",
+                                "radius": 2,
+                                "tag_key": "nature_language_zh",
+                                "group_keys":
+                                [
+                                    "product_tag",
+                                    "product_nature_tag"
+                                ],
+                                "track":
+                                {
+                                    "tag_id": 3028,
+                                    "tag_key": "nature_language_zh"
+                                },
+                                "inner_vars":
+                                {
+                                    "inner":
+                                    {
+                                        "priority": 30000050,
+                                        "rel_priority": 1010
+                                    }
+                                }
+                            },
+                            {
+                                "type": 2,
+                                "text": "轻松退款",
+                                "text_color": "#757575",
+                                "background_color": "#F5F5F5",
+                                "background_alpha": 0,
+                                "border_color": "#F5F5F5",
+                                "radius": 2,
+                                "tag_key": "nature_easy_refund",
+                                "group_keys":
+                                [
+                                    "product_tag",
+                                    "product_nature_tag"
+                                ],
+                                "track":
+                                {
+                                    "tag_id": 3013,
+                                    "tag_key": "nature_easy_refund"
+                                },
+                                "inner_vars":
+                                {
+                                    "inner":
+                                    {
+                                        "priority": 30000250,
+                                        "rel_priority": 1414
+                                    }
+                                }
+                            },
+                            {
+                                "type": 2,
+                                "text": "立即确认",
+                                "text_color": "#757575",
+                                "background_color": "#F5F5F5",
+                                "background_alpha": 0,
+                                "border_color": "#F5F5F5",
+                                "radius": 2,
+                                "tag_key": "nature_instant_confirm",
+                                "group_keys":
+                                [
+                                    "product_tag",
+                                    "product_nature_tag"
+                                ],
+                                "track":
+                                {
+                                    "tag_id": 3000,
+                                    "tag_key": "nature_instant_confirm"
+                                },
+                                "inner_vars":
+                                {
+                                    "inner":
+                                    {
+                                        "priority": 30000380,
+                                        "rel_priority": 1717
+                                    }
+                                }
+                            },
+                            {
+                                "type": 2,
+                                "text": "现在预订，明日使用",
+                                "text_color": "#757575",
+                                "background_color": "#F5F5F5",
+                                "background_alpha": 0,
+                                "border_color": "#F5F5F5",
+                                "radius": 2,
+                                "tag_key": "nature_book_tomorrow",
+                                "group_keys":
+                                [
+                                    "product_tag",
+                                    "product_nature_tag"
+                                ],
+                                "track":
+                                {
+                                    "tag_id": 3015,
+                                    "tag_key": "nature_book_tomorrow"
+                                },
+                                "inner_vars":
+                                {
+                                    "inner":
+                                    {
+                                        "priority": 30000440,
+                                        "rel_priority": 1818
+                                    }
+                                }
+                            }
+                        ],
+                        "discount_tags":
+                        [
+                            {
+                                "type": 2,
+                                "text": "20%折扣",
+                                "text_color": "#FF5B00",
+                                "background_color": "#FFF0E5",
+                                "background_alpha": 0,
+                                "border_color": "#FFF0E5",
+                                "radius": 2,
+                                "tag_key": "rate_plan:126425:d:20",
+                                "group_keys":
+                                [
+                                    "product_tag",
+                                    "deal_tag",
+                                    "rateplan_tag",
+                                    "direct_discount"
+                                ],
+                                "track":
+                                {
+                                    "tag_id": 37003,
+                                    "tag_key": "rate_plan:126425:d:20"
+                                },
+                                "inner_vars":
+                                {
+                                    "inner":
+                                    {
+                                        "priority": 14150080,
+                                        "rel_priority": 404
+                                    },
+                                    "rate_plan":
+                                    {
+                                        "act_discount_desc_icon_text": "20%折扣",
+                                        "discount_type": "direct_discount",
+                                        "rate_plan_id": 126425
+                                    }
+                                }
+                            },
+                            {
+                                "type": 2,
+                                "text": "价格保证",
+                                "text_color": "#FF5B00",
+                                "background_color": "#FFF0E5",
+                                "background_alpha": 0,
+                                "border_color": "#FFF0E5",
+                                "radius": 2,
+                                "tag_key": "deal_best_price_guarantee",
+                                "group_keys":
+                                [
+                                    "product_tag",
+                                    "deal_tag",
+                                    "customized_deal_tag",
+                                    "manual_tag"
+                                ],
+                                "track":
+                                {
+                                    "tag_id": 3062,
+                                    "tag_key": "deal_best_price_guarantee"
+                                },
+                                "inner_vars":
+                                {
+                                    "inner":
+                                    {
+                                        "priority": 15200106,
+                                        "rel_priority": 707
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "new_promo_tags":
+                    [
+                        {
+                            "type": "vertical_promo_tag",
+                            "text": "优惠",
+                            "tag_text": "20%折扣",
+                            "icon_src": "",
+                            "tag_color": "#FF5B00",
+                            "radius": 2,
+                            "track":
+                            {
+                                "tag_id": 37003,
+                                "tag_key": "rate_plan:126425:d:20"
+                            },
+                            "tag_key": "rate_plan:126425:d:20"
+                        },
+                        {
+                            "type": "manual_tag",
+                            "text": "价格保证",
+                            "tag_text": "",
+                            "icon_src": "",
+                            "tag_color": "#F44622",
+                            "radius": 2,
+                            "track":
+                            {
+                                "tag_id": 3062,
+                                "tag_key": "deal_best_price_guarantee"
+                            },
+                            "tag_key": "deal_best_price_guarantee"
+                        }
+                    ],
+                    "publish_info":
+                    {
+                        "publish_status": 1,
+                        "publish_status_desc": ""
+                    },
+                    "departures": null,
+                    "extra":
+                    {
+                        "recall_type": "a03",
+                        "request_id": "1snemd3-1i8kbg4o8-oceX433ae8696c",
+                        "request_time": 1727260005172,
+                        "rcmd_code": "Si_Ac_YM"
+                    }
+                }
+            ]
         },
-        "zh-TW": {
-          "title-v1": "春天的景點",
-          "body-v1": "在春花下探索{{aNa}}，標誌性的日本景點。",
-          "title-v3": "探索日本新事物",
-          "body-v3": "新探索，用{{aNa}}！",
-          "title-v4": "發現日本隱藏版景點",
-          "body-v4": "探秘地點：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
-          "body-v1": "สำรวจ {{aNa}} ใต้ดอกไม้ในฤดูใบไม้ผลิ จุดเด่นของญี่ปุ่น",
-          "title-v3": "สำรวจมุมใหม่ๆ ในญี่ปุ่น",
-          "body-v3": "พบประสบการณ์ใหม่กับ{{aNa}}!",
-          "title-v4": "ค้นพบสถานที่ลับในญี่ปุ่น",
-          "body-v4": "สำรวจ{{aNa}} สถานที่ซ่อนเร้น!"
-        },
-        "id-ID": {
-          "title-v1": "Daya Tarik Musim Semi",
-          "body-v1": "Menjelajahi {{aNa}} di bawah bunga-bunga musim semi, landmark ikonis Jepang",
-          "title-v3": "Jelajahi Sisi Baru Jepang",
-          "body-v3": "Coba yang baru dengan {{aNa}}!",
-          "title-v4": "Temukan Permata Tersembunyi Jepang",
-          "body-v4": "Jelajahi rahasia: {{aNa}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Dive into {{aNa}}, the top summer attractions in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "暢遊{{aNa}}，全球頂級的夏日日本景點。"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "暢遊{{aNa}}，全球頂級的夏日日本景點。"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ท่องเที่ยว {{aNa}} สถานที่ท่องเที่ยวญี่ปุ่นชั้นนำของโลกในฤดูร้อน"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Berkunjung ke {{aNa}}, tempat wisata musim panas terbaik Jepang di dunia"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Discover {{aNa}}, the fall colors at these spectacular locations in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "在這些壯觀的日本地點發現{{aNa}}，秋天的顏色。"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "在這些壯觀的日本地點發現{{aNa}}，秋天的顏色。"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "ค้นพบ {{aNa}} ในที่ต่างๆ ของญี่ปุ่นที่งดงามในฤดูใบไม้ร่วง"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Temukan {{aNa}} di lokasi-lokasi spektakuler Jepang, warna musim gugur"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Experience {{aNa}}, magical winter attractions covered in snow in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "體驗{{aNa}}，覆蓋在雪中的神奇日本冬季景點。"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "體驗{{aNa}}，覆蓋在雪中的神奇日本冬季景點。"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "สัมผัส {{aNa}} จุดท่องเที่ยวญี่ปุ่นมหัศจรรย์ในฤดูหนาวที่ปกคลุมไปด้วยหิมะ"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Mengalami {{aNa}}, daya tarik musim dingin Jepang yang ajaib terbungkus salju"
-        }
-      }
-    },
-    "Attractions Pass": {
-      "Q1": {
-        "en-US": {
-          "title-v2": "Uncover Japan's Hidden Gems",
-          "body-v2": "Explore the secret: {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v2": "揭秘日本隱藏景點",
-          "body-v2": "秘境探索：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v2": "發現日本隱藏版景點",
-          "body-v2": "探秘地點：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v2": "ค้นพบสถานที่ลับในญี่ปุ่น",
-          "body-v2": "สำรวจ{{aNa}} สถานที่ซ่อนเร้น!"
-        },
-        "id-ID": {
-          "title-v2": "Temukan Permata Tersembunyi Jepang",
-          "body-v2": "Jelajahi rahasia: {{aNa}}!"
-        }
-      }
-    },
-    "Mobility": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Spring into New Journeys!",
-          "body-v1": "Explore {{aNa}}under the spring blooms in Japan.",
-          "title-v2": "Unveil Japan's Hidden Routes",
-          "body-v2": "Secret paths with {{aNa}}!",
-          "title-v3": "Discover New Sides of {{countryName}}",
-          "body-v3": "Explore anew with {{aNa}}!",
-          "title-v4": "Special Ride Offers in {{countryName}}!",
-          "body-v4": "Ride more, save more: {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "春日遊：開啟新旅程！",
-          "body-v1": "在春花下探索{{aNa}}，標誌性的日本景點。",
-          "title-v2": "探索{{countryName}}隱秘通道",
-          "body-v2": "發現隱藏路線：{{aNa}}！",
-          "title-v3": "探索{{countryName}}新面貌",
-          "body-v3": "體驗新事物：{{aNa}}！",
-          "title-v4": "{{countryName}}專屬行程優惠",
-          "body-v4": "優惠行程：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "春遊啟程：新旅程等你開啟！",
-          "body-v1": "在春花下探索{{aNa}}，標誌性的日本景點。",
-          "title-v2": "發掘{{countryName}}秘密路徑",
-          "body-v2": "探索秘境：{{aNa}}！",
-          "title-v3": "探索{{countryName}}新事物",
-          "body-v3": "新探索，用{{aNa}}！",
-          "title-v4": "{{countryName}}行程特別優惠",
-          "body-v4": "特價優惠：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "หน้าใหม่เดินทางช่วงฤดูใบไม้ผลิ",
-          "body-v1": "สำรวจ {{aNa}} ใต้ดอกไม้ในฤดูใบไม้ผลิ จุดเด่นของญี่ปุ่น",
-          "title-v2": "เส้นทางลับของ{{countryName}}",
-          "body-v2": "ค้นหา{{aNa}} เส้นทางซ่อนเร้น!",
-          "title-v3": "สำรวจมุมใหม่ๆ ใน{{countryName}}",
-          "body-v3": "พบประสบการณ์ใหม่กับ{{aNa}}!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับการเดินทางใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษจาก{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Waktunya Petualangan Musim Semi!",
-          "body-v1": "Menjelajahi {{aNa}} di bawah bunga-bunga musim semi, landmark ikonis Jepang",
-          "title-v2": "Rahasia Jalur Tersembunyi {{countryName}}",
-          "body-v2": "Temukan jalur tersembunyi: {{aNa}}!",
-          "title-v3": "Jelajahi Sisi Baru {{countryName}}",
-          "body-v3": "Coba yang baru dengan {{aNa}}!",
-          "title-v4": "Penawaran Khusus Perjalanan {{countryName}}",
-          "body-v4": "Nikmati penawaran khusus: {{aNa}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Escapes: Travel Light!",
-          "body-v1": "Dive into {{aNa}}, the top summer attractions in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "夏日逃逸：輕裝上路！",
-          "body-v1": "暢遊{{aNa}}，全球頂級的夏日日本景點。"
-        },
-        "zh-TW": {
-          "title-v1": "夏日出走：輕旅行！",
-          "body-v1": "暢遊{{aNa}}，全球頂級的夏日日本景點。"
-        },
-        "th-TH": {
-          "title-v1": "หน้าร้อนนี้ เที่ยวไร้ภาระ",
-          "body-v1": "ท่องเที่ยว {{aNa}} สถานที่ท่องเที่ยวญี่ปุ่นชั้นนำของโลกในฤดูร้อน"
-        },
-        "id-ID": {
-          "title-v1": "Musim Panas: Bepergian tanpa Beban!",
-          "body-v1": "Berkunjung ke {{aNa}}, tempat wisata musim panas terbaik Jepang di dunia"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures: Ride the Breeze!",
-          "body-v1": "Discover {{aNa}}, the fall colors at these spectacular locations in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "秋風冒險：隨風而行！",
-          "body-v1": "在這些壯觀的日本地點發現{{aNa}}，秋天的顏色。"
-        },
-        "zh-TW": {
-          "title-v1": "秋風之旅：乘風破浪！",
-          "body-v1": "在這些壯觀的日本地點發現{{aNa}}，秋天的顏色。"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "ค้นพบ {{aNa}} ในที่ต่างๆ ของญี่ปุ่นที่งดงามในฤดูใบไม้ร่วง"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur: Ikuti Angin!",
-          "body-v1": "Temukan {{aNa}} di lokasi-lokasi spektakuler Jepang, warna musim gugur"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wheels: Glide into the Cold!",
-          "body-v1": "Experience {{aNa}}, magical winter attractions covered in snow in Japan."
-        },
-        "zh-HK": {
-          "title-v1": "冬季輪旅：滑入寒冬！",
-          "body-v1": "體驗{{aNa}}，覆蓋在雪中的神奇日本冬季景點。"
-        },
-        "zh-TW": {
-          "title-v1": "冬季旅程：向寒冷出發！",
-          "body-v1": "體驗{{aNa}}，覆蓋在雪中的神奇日本冬季景點。"
-        },
-        "th-TH": {
-          "title-v1": "ล้อเลื่อนผ่านหนาว มาเที่ยวกัน",
-          "body-v1": "สัมผัส {{aNa}} จุดท่องเที่ยวญี่ปุ่นมหัศจรรย์ในฤดูหนาวที่ปกคลุมไปด้วยหิมะ"
-        },
-        "id-ID": {
-          "title-v1": "Musim Dingin: Meluncur ke Dingin!",
-          "body-v1": "Mengalami {{aNa}}, daya tarik musim dingin Jepang yang ajaib terbungkus salju"
-        }
-      }
-    },
-    "T&A": {
-      "Q1": {
-        "en-US": {
-          "title-v2": "Discover Japan's Hidden Gems",
-          "body-v2": "Explore secrets with {{aNa}}!",
-          "title-v3": "New Adventures in Japan Await",
-          "body-v3": "Discover new with {{aNa}}!",
-          "title-v4": "Exclusive Offers in Japan!",
-          "body-v4": "Special deals at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v2": "探索日本隱藏寶藏",
-          "body-v2": "發掘隱秘：{{aNa}}！",
-          "title-v3": "日本新冒險等你發掘",
-          "body-v3": "探索新體驗：{{aNa}}！",
-          "title-v4": "日本獨家優惠",
-          "body-v4": "專享{{aNa}}優惠！"
-        },
-        "zh-TW": {
-          "title-v2": "發現日本的秘密寶藏",
-          "body-v2": "探索隱藏的{{aNa}}！",
-          "title-v3": "日本新探險",
-          "body-v3": "發現新活動：{{aNa}}！",
-          "title-v4": "日本特別優惠",
-          "body-v4": "{{aNa}}專屬優惠！"
-        },
-        "th-TH": {
-          "title-v2": "ค้นพบสมบัติซ่อนเร้นของญี่ปุ่น",
-          "body-v2": "สำรวจ{{aNa}} ที่ซ่อนอยู่!",
-          "title-v3": "ผจญภัยใหม่ๆ ในญี่ปุ่น",
-          "body-v3": "ค้นหา{{aNa}} สิ่งใหม่ๆ!",
-          "title-v4": "ข้อเสนอพิเศษในญี่ปุ่น",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v2": "Temukan Permata Tersembunyi Jepang",
-          "body-v2": "Jelajahi tersembunyi: {{aNa}}!",
-          "title-v3": "Petualangan Baru Menanti di Jepang",
-          "body-v3": "Temukan kegiatan baru: {{aNa}}!",
-          "title-v4": "Penawaran Spesial di Jepang",
-          "body-v4": "Penawaran khusus di {{aNa}}!"
-        }
-      }
+        "success": true
     }
-  },
-  "Sapporo": {
-    "T&A": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Spring into Adventure",
-          "body-v1": "Discover {{aNa}} this spring!"
-        },
-        "zh-HK": {
-          "title-v1": "春季探險啟程",
-          "body-v1": "今春探索{{aNa}}"
-        },
-        "zh-TW": {
-          "title-v1": "開啟春季探險",
-          "body-v1": "這春天來體驗{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ผลิ",
-          "body-v1": "ค้นพบ{{aNa}}ในฤดูใบไม้ผลิ"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Semi Dimulai",
-          "body-v1": "Jelajahi {{aNa}} di musim semi!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Experience Winter Wonders",
-          "body-v1": "Embrace the chill with {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "體驗冬季的奇妙",
-          "body-v1": "冬日擁抱{{aNa}}"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇遇等你來發現",
-          "body-v1": "冬日暖心{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "สัมผัสความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "กอดความหนาวนี้ด้วย{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Nikmati Keajaiban Musim Dingin",
-          "body-v1": "Hangatkan musim dingin dengan {{aNa}}!"
-        }
-      }
-    }
-  },
-  "Kyoto": {
-    "T&A": {
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Explorations Await",
-          "body-v1": "Dive into summer with {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日探索等你",
-          "body-v1": "夏日與{{aNa}}共度"
-        },
-        "zh-TW": {
-          "title-v1": "夏日探險等著你",
-          "body-v1": "享受夏日{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "สำรวจสนุกในฤดูร้อน",
-          "body-v1": "ดำดิ่งสู่ความสนุก{{aNa}}หน้าร้อน"
-        },
-        "id-ID": {
-          "title-v1": "Jelajahi Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas dengan {{aNa}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Uncover Autumn's Secrets",
-          "body-v1": "Explore the colors of fall with {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "揭開秋季的祕密",
-          "body-v1": "秋色中體驗{{aNa}}"
-        },
-        "zh-TW": {
-          "title-v1": "秋季祕境等你探索",
-          "body-v1": "秋季色彩與{{aNa}}同行"
-        },
-        "th-TH": {
-          "title-v1": "ค้นพบความลับของฤดูใบไม้ร่วง",
-          "body-v1": "สำรวจสีสันของฤดูใบไม้ร่วงกับ{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Temukan Rahasia Musim Gugur",
-          "body-v1": "Petualangan musim gugur: {{aNa}}!"
-        }
-      }
-    }
-  },
-  "Hong Kong & Macau": {
-    "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Spring into Hong Kong's Best!",
-          "body-v1": "Explore {{aNa}} this spring!",
-          "title-v2": "Discover Hidden Gems of {{countryName}}",
-          "body-v2": "Explore secret spots: {{aNa}}!",
-          "title-v3": "New Discoveries in {{countryName}} Await",
-          "body-v3": "Find what's new with {{aNa}}!",
-          "title-v4": "Special Attractions in {{countryName}}!",
-          "body-v4": "Exclusive deals at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港春季好去處",
-          "body-v1": "春天來臨，探索{{aNa}}",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{aNa}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "香港春季精選",
-          "body-v1": "春季來了，探索{{aNa}}",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{aNa}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "สปริงนี้ ที่สุดของฮ่องกง!",
-          "body-v1": "สำรวจ{{aNa}}ในช่วงฤดูใบไม้ผลิ",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{aNa}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{aNa}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Terbaik di Hong Kong Musim Semi!",
-          "body-v1": "Jelajahi {{aNa}} di musim semi!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{aNa}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{aNa}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{aNa}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun in Hong Kong",
-          "body-v1": "Summer fun at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港夏日樂無窮",
-          "body-v1": "夏日樂翻天，在{{aNa}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港夏日趣",
-          "body-v1": "夏日歡樂，體驗{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฮ่องกงช่วงหน้าร้อน",
-          "body-v1": "ความสนุกของหน้าร้อนที่{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas di Hong Kong",
-          "body-v1": "Keseruan musim panas di {{aNa}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures in Hong Kong",
-          "body-v1": "Autumn colors at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港秋季探險",
-          "body-v1": "秋天的顏色，{{aNa}}體驗"
-        },
-        "zh-TW": {
-          "title-v1": "香港秋日探險",
-          "body-v1": "秋季色彩，探索{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฮ่องกงช่วงฤดูใบไม้ร่วง",
-          "body-v1": "สีสันของฤดูใบไม้ร่วงที่{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur di Hong Kong",
-          "body-v1": "Warna musim gugur di {{aNa}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders in Hong Kong",
-          "body-v1": "Winter magic at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港冬日奇蹟",
-          "body-v1": "冬日魔幻，{{aNa}}等你來探"
-        },
-        "zh-TW": {
-          "title-v1": "香港冬季奇景",
-          "body-v1": "冬季魔法，感受{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ในฮ่องกงช่วงฤดูหนาว",
-          "body-v1": "มนต์ขลังของฤดูหนาวที่{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin di Hong Kong",
-          "body-v1": "Keajaiban musim dingin di {{aNa}}!"
-        }
-      }
-    },
-    "Mobility": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Spring Rides in Hong Kong",
-          "body-v1": "Ride through spring with {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港春季行",
-          "body-v1": "春季透過{{aNa}}遊走香港"
-        },
-        "zh-TW": {
-          "title-v1": "香港春季遊",
-          "body-v1": "春天來臨，買{{aNa}}遊香港"
-        },
-        "th-TH": {
-          "title-v1": "ขี่ในฮ่องกงช่วงฤดูใบไม้ผลิ",
-          "body-v1": "ขี่{{aNa}}ผ่านฤดูใบไม้ผลิในฮ่องกง"
-        },
-        "id-ID": {
-          "title-v1": "Naik Musim Semi di Hong Kong",
-          "body-v1": "Nikmati musim semi dengan {{aNa}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Cruises in Hong Kong",
-          "body-v1": "Cruise this summer with {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港夏季巡航",
-          "body-v1": "夏季與{{aNa}}同行"
-        },
-        "zh-TW": {
-          "title-v1": "香港夏日巡航",
-          "body-v1": "夏日涼風，購入{{aNa}}同遊"
-        },
-        "th-TH": {
-          "title-v1": "ล่องเรือในฮ่องกงช่วงฤดูร้อน",
-          "body-v1": "ล่องเรือในฤดูร้อนนี้กับ{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Pesiar Musim Panas di Hong Kong",
-          "body-v1": "Pesiar musim panas ini dengan {{aNa}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Rides in Hong Kong",
-          "body-v1": "Autumn journeys with {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港秋季遊車",
-          "body-v1": "秋日旅程，選擇{{aNa}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港秋季騎行",
-          "body-v1": "秋季旅行，選{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "ขี่ในฮ่องกงช่วงฤดูใบไม้ร่วง",
-          "body-v1": "ท่องเที่ยวฤดูใบไม้ร่วงกับ{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Berkendara Musim Gugur di Hong Kong",
-          "body-v1": "Petualangan musim gugur dengan {{aNa}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Drives in Hong Kong",
-          "body-v1": "Navigate winter with {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港冬季駕駛",
-          "body-v1": "冬季導航，選{{aNa}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港冬季開車",
-          "body-v1": "冬天導航，依靠{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "ขับขี่ในฮ่องกงช่วงฤดูหนาว",
-          "body-v1": "นำทางฤดูหนาวด้วย{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Mengemudi Musim Dingin di Hong Kong",
-          "body-v1": "Jelajahi musim dingin dengan {{aNa}}!"
-        }
-      }
-    },
-    "Theme Park": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Spring Tours in Hong Kong",
-          "body-v1": "See {{aNa}} in spring bloom!"
-        },
-        "zh-HK": {
-          "title-v1": "香港春季導覽",
-          "body-v1": "春季賞花，探索{{aNa}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港春天旅遊",
-          "body-v1": "春天花開，探訪{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "ทัวร์ฮ่องกงในฤดูใบไม้ผลิ",
-          "body-v1": "ชม{{aNa}}ในช่วงดอกไม้บาน"
-        },
-        "id-ID": {
-          "title-v1": "Tur Musim Semi di Hong Kong",
-          "body-v1": "Lihat {{aNa}} bermekaran di musim semi!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Sights in Hong Kong",
-          "body-v1": "Summer vibes at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港夏季景點",
-          "body-v1": "夏日風情，體驗{{aNa}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港夏季觀光",
-          "body-v1": "夏日氣息，體驗{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "แหล่งท่องเที่ยวฮ่องกงในฤดูร้อน",
-          "body-v1": "บรรยากาศฤดูร้อนที่{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Tempat Wisata Musim Panas di Hong Kong",
-          "body-v1": "Rasakan suasana musim panas di {{aNa}}!"
-        }
-      }
-    },
-    "Spa & Massage": {
-      "Q3": {
-        "en-US": {
-          "title-v1": "Explore Autumn in Hong Kong",
-          "body-v1": "Autumn colors await at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "探索香港的秋天",
-          "body-v1": "秋天的顏色，{{aNa}}等你"
-        },
-        "zh-TW": {
-          "title-v1": "體驗香港秋季",
-          "body-v1": "秋季色彩，{{aNa}}等你來體驗"
-        },
-        "th-TH": {
-          "title-v1": "สำรวจฮ่องกงในฤดูใบไม้ร่วง",
-          "body-v1": "สีสันของฤดูใบไม้ร่วงที่{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Jelajahi Musim Gugur di Hong Kong",
-          "body-v1": "Warna musim gugur menanti di {{aNa}}!"
-        }
-      }
-    },
-    "Observation Decks & Towers": {
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders of Hong Kong",
-          "body-v1": "Discover winter magic at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "香港冬季奇觀",
-          "body-v1": "冬季魔幻，探索{{aNa}}"
-        },
-        "zh-TW": {
-          "title-v1": "香港冬季的奇景",
-          "body-v1": "冬季奇幻，探索{{aNa}}"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ฮ่องกงในฤดูหนาว",
-          "body-v1": "ค้นพบความมหัศจรรย์ในฤดูหนาวที่{{aNa}}"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin di Hong Kong",
-          "body-v1": "Temukan keajaiban musim dingin di {{aNa}}!"
-        }
-      }
-    },
-    "T&A": {
-      "Q1": {
-        "en-US": {
-          "title-v2": "Discover Hong Kong's Hidden Gems",
-          "body-v2": "Explore secrets with {{aNa}}!",
-          "title-v3": "New Adventures in Hong Kong Await",
-          "body-v3": "Discover new with {{aNa}}!",
-          "title-v4": "Exclusive Offers in Hong Kong!",
-          "body-v4": "Special deals at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v2": "探索香港隱藏寶藏",
-          "body-v2": "發掘隱秘：{{aNa}}！",
-          "title-v3": "香港新冒險等你發掘",
-          "body-v3": "探索新體驗：{{aNa}}！",
-          "title-v4": "香港獨家優惠",
-          "body-v4": "專享{{aNa}}優惠！"
-        },
-        "zh-TW": {
-          "title-v2": "發現香港的秘密寶藏",
-          "body-v2": "探索隱藏的{{aNa}}！",
-          "title-v3": "香港新探險",
-          "body-v3": "發現新活動：{{aNa}}！",
-          "title-v4": "香港特別優惠",
-          "body-v4": "{{aNa}}專屬優惠！"
-        },
-        "th-TH": {
-          "title-v2": "ค้นพบสมบัติซ่อนเร้นของฮ่องกง",
-          "body-v2": "สำรวจ{{aNa}} ที่ซ่อนอยู่!",
-          "title-v3": "ผจญภัยใหม่ๆ ในฮ่องกง",
-          "body-v3": "ค้นหา{{aNa}} สิ่งใหม่ๆ!",
-          "title-v4": "ข้อเสนอพิเศษในฮ่องกง",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v2": "Temukan Permata Tersembunyi Hong Kong",
-          "body-v2": "Jelajahi tersembunyi: {{aNa}}!",
-          "title-v3": "Petualangan Baru Menanti di Hong Kong",
-          "body-v3": "Temukan kegiatan baru: {{aNa}}!",
-          "title-v4": "Penawaran Spesial di Hong Kong",
-          "body-v4": "Penawaran khusus di {{aNa}}!"
-        }
-      }
-    }
-  },
-  "Thailand": {
-    "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Celebrate New Year in Thailand!",
-          "body-v1": "Ring in new with {{aNa}}!",
-          "title-v2": "Discover Hidden Gems of Thailand",
-          "body-v2": "Explore secret spots: {{aNa}}!",
-          "title-v3": "New Discoveries in Thailand Await",
-          "body-v3": "Find what's new with {{aNa}}!",
-          "title-v4": "Special Attractions in Thailand!",
-          "body-v4": "Exclusive deals at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "泰國新年慶典",
-          "body-v1": "新年慶祝：{{aNa}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{aNa}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "泰國新年慶祝",
-          "body-v1": "新年好去處：{{aNa}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{aNa}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ฉลองปีใหม่ในไทย",
-          "body-v1": "ฉลองที่{{aNa}}!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{aNa}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{aNa}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Rayakan Tahun Baru di Thailand!",
-          "body-v1": "Sambut baru di {{aNa}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{aNa}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{aNa}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{aNa}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Splash into Thai Songkran!",
-          "body-v1": "Get soaked at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "泰國潑水節",
-          "body-v1": "潑水節狂歡：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "泰國潑水節慶祝",
-          "body-v1": "體驗潑水節：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "สนุกกับเทศกาลสงกรานต์",
-          "body-v1": "เล่นน้ำที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Meriahkan Songkran di Thailand!",
-          "body-v1": "Basah-basahan di {{aNa}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Experience Thai Vegetarian Festival!",
-          "body-v1": "Go green at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "泰國素食節",
-          "body-v1": "素食節體驗：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "體驗泰國素食節",
-          "body-v1": "素食體驗：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ลองเทศกาลมังสวิรัติไทย",
-          "body-v1": "ลิ้มรสที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Festival Vegetarian Thailand!",
-          "body-v1": "Rasakan vegetarian di {{aNa}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Light Up the Night at Loy Krathong!",
-          "body-v1": "Celebrate light at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "泰國水燈節",
-          "body-v1": "水燈節慶典：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "泰國浮燈節",
-          "body-v1": "浮燈體驗：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ประทีปแสงสีในลอยกระทง",
-          "body-v1": "ลอยกระทงที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Rayakan Loy Krathong di Thailand!",
-          "body-v1": "Rayakan cahaya di {{aNa}}!"
-        }
-      }
-    }
-  },
-  "South Korea": {
-    "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Explore Cherry Blossoms in Korea!",
-          "body-v1": "Bloom with {{aNa}}!",
-          "title-v2": "Discover Hidden Gems of South Korea",
-          "body-v2": "Explore secret spots: {{aNa}}!",
-          "title-v3": "New Discoveries in South Korea Await",
-          "body-v3": "Find what's new with {{aNa}}!",
-          "title-v4": "Special Attractions in South Korea!",
-          "body-v4": "Exclusive deals at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "韓國賞櫻",
-          "body-v1": "賞櫻去處：{{aNa}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{aNa}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "韓國櫻花季",
-          "body-v1": "櫻花盛開：{{aNa}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{aNa}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ชมดอกซากุระในเกาหลี",
-          "body-v1": "ชม{{aNa}} ดอกไม้บาน!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{aNa}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{aNa}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Musim Sakura di Korea!",
-          "body-v1": "Nikmati Sakura di {{aNa}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{aNa}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{aNa}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{aNa}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Summer vibes at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏日精彩：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏季慶典：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ฤดูร้อนนี้ที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas di {{aNa}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Harvest joy at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "秋夕慶祝：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "慶祝秋夕：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "ฉลอง{{aNa}} วันเชือก!"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Rayakan panen di {{aNa}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Ski the winter at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬日滑雪：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬季滑雪：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "สกีฤดูหนาวที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Nikmati ski di {{aNa}}!"
-        }
-      }
-    }
-  },
-  "Taiwan": {
-    "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Explore Cherry Blossoms in Taiwan!",
-          "body-v1": "Welcome spring at {{aNa}}!",
-          "title-v2": "Discover Hidden Gems of Taiwan",
-          "body-v2": "Explore secret spots: {{aNa}}!",
-          "title-v3": "New Discoveries in Taiwan Await",
-          "body-v3": "Find what's new with {{aNa}}!",
-          "title-v4": "Special Attractions in Taiwan!",
-          "body-v4": "Exclusive deals at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "台灣賞櫻",
-          "body-v1": "春天來了：{{aNa}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{aNa}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "台灣櫻花季",
-          "body-v1": "迎接春天：{{aNa}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{aNa}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ชมดอกซากุระในไต้หวัน",
-          "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{aNa}}!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{aNa}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{aNa}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Musim Sakura di Taiwan!",
-          "body-v1": "Sambut musim semi di {{aNa}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{aNa}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{aNa}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{aNa}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Summer vibes at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏日精彩：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏季慶典：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ฤดูร้อนนี้ที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas di {{aNa}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Embrace fall at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "秋天的顏色：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "感受秋色：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Rasakan musim gugur di {{aNa}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Experience winter at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬季體驗：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬天來臨：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "ฤดูหนาวนี้ที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Nikmati musim dingin di {{aNa}}!"
-        }
-      }
-    }
-  },
-  "Indonesia": {
-    "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Springtime Attractions",
-          "body-v1": "Welcome spring at {{aNa}}!",
-          "title-v2": "Discover Hidden Gems of Indonesia",
-          "body-v2": "Explore secret spots: {{aNa}}!",
-          "title-v3": "New Discoveries in Indonesia Await",
-          "body-v3": "Find what's new with {{aNa}}!",
-          "title-v4": "Special Attractions in Indonesia!",
-          "body-v4": "Exclusive deals at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "春天的景點",
-          "body-v1": "春天來了：{{aNa}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{aNa}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "春天的景點",
-          "body-v1": "迎接春天：{{aNa}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{aNa}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
-          "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{aNa}}!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{aNa}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{aNa}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Daya Tarik Musim Semi",
-          "body-v1": "Sambut musim semi di {{aNa}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{aNa}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{aNa}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{aNa}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Summer vibes at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏日精彩：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏季慶典：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ฤดูร้อนนี้ที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas di {{aNa}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Embrace fall at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "秋天的顏色：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "感受秋色：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Rasakan musim gugur di {{aNa}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Experience winter at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬季體驗：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬天來臨：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "ฤดูหนาวนี้ที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Nikmati musim dingin di {{aNa}}!"
-        }
-      }
-    }
-  },
-  "Mainland China": {
-    "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Springtime Attractions",
-          "body-v1": "Welcome spring at {{aNa}}!",
-          "title-v2": "Discover Hidden Gems of {{countryName}}",
-          "body-v2": "Explore secret spots: {{aNa}}!",
-          "title-v3": "New Discoveries in {{countryName}} Await",
-          "body-v3": "Find what's new with {{aNa}}!",
-          "title-v4": "Special Attractions in {{countryName}}!",
-          "body-v4": "Exclusive deals at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "春天的景點",
-          "body-v1": "春天來了：{{aNa}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{aNa}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "春天的景點",
-          "body-v1": "迎接春天：{{aNa}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{aNa}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
-          "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{aNa}}!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{aNa}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{aNa}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Daya Tarik Musim Semi",
-          "body-v1": "Sambut musim semi di {{aNa}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{aNa}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{aNa}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{aNa}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Summer vibes at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏日精彩：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏季慶典：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ฤดูร้อนนี้ที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas di {{aNa}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Embrace fall at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "秋天的顏色：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "感受秋色：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Rasakan musim gugur di {{aNa}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Experience winter at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬季體驗：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬天來臨：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "ฤดูหนาวนี้ที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Nikmati musim dingin di {{aNa}}!"
-        }
-      }
-    }
-  },
-  "Generic": {
-    "Attractions": {
-      "Q1": {
-        "en-US": {
-          "title-v1": "Springtime Attractions",
-          "body-v1": "Welcome spring at {{aNa}}!",
-          "title-v2": "Discover Hidden Gems of {{countryName}}",
-          "body-v2": "Explore secret spots: {{aNa}}!",
-          "title-v3": "New Discoveries in {{countryName}} Await",
-          "body-v3": "Find what's new with {{aNa}}!",
-          "title-v4": "Special Attractions in {{countryName}}!",
-          "body-v4": "Exclusive deals at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "春天的景點",
-          "body-v1": "春天來了：{{aNa}}！",
-          "title-v2": "發現{{countryName}}隱藏景點",
-          "body-v2": "探秘隱藏地點：{{aNa}}！",
-          "title-v3": "{{countryName}}新發現等著你",
-          "body-v3": "體驗新奇事：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特別優惠",
-          "body-v4": "專享優惠：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "春天的景點",
-          "body-v1": "迎接春天：{{aNa}}！",
-          "title-v2": "探索{{countryName}}的秘密景點",
-          "body-v2": "發現隱藏景點：{{aNa}}！",
-          "title-v3": "{{countryName}}新探索",
-          "body-v3": "尋找新體驗：{{aNa}}！",
-          "title-v4": "{{countryName}}景點特惠",
-          "body-v4": "獨家優惠：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "สถานที่น่าไปฤดูใบไม้ผลิ",
-          "body-v1": "ต้อนรับฤดูใบไม้ผลิที่{{aNa}}!",
-          "title-v2": "ค้นหาสถานที่ซ่อนเร้นใน{{countryName}}",
-          "body-v2": "สำรวจ{{aNa}} สถานที่ลับของเมือง!",
-          "title-v3": "สิ่งใหม่ๆ ที่{{countryName}}",
-          "body-v3": "ค้นพบ{{aNa}} ประสบการณ์ใหม่!",
-          "title-v4": "ข้อเสนอพิเศษสำหรับสถานที่ใน{{countryName}}",
-          "body-v4": "ข้อเสนอพิเศษสำหรับ{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Daya Tarik Musim Semi",
-          "body-v1": "Sambut musim semi di {{aNa}}!",
-          "title-v2": "Temukan Permata Tersembunyi di {{countryName}}",
-          "body-v2": "Jelajahi tempat tersembunyi: {{aNa}}!",
-          "title-v3": "Jelajahi Hal Baru di {{countryName}}",
-          "body-v3": "Temukan pengalaman baru: {{aNa}}!",
-          "title-v4": "Penawaran Spesial di {{countryName}}",
-          "body-v4": "Penawaran eksklusif di {{aNa}}!"
-        }
-      },
-      "Q2": {
-        "en-US": {
-          "title-v1": "Summer Fun",
-          "body-v1": "Summer vibes at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏日精彩：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "夏日樂趣",
-          "body-v1": "夏季慶典：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความสนุกสนานในฤดูร้อน",
-          "body-v1": "ฤดูร้อนนี้ที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keseruan Musim Panas",
-          "body-v1": "Rasakan musim panas di {{aNa}}!"
-        }
-      },
-      "Q3": {
-        "en-US": {
-          "title-v1": "Autumn Adventures",
-          "body-v1": "Embrace fall at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "秋日冒險",
-          "body-v1": "秋天的顏色：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "秋日冒險",
-          "body-v1": "感受秋色：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ผจญภัยในฤดูใบไม้ร่วง",
-          "body-v1": "สัมผัสฤดูใบไม้ร่วงที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Petualangan Musim Gugur",
-          "body-v1": "Rasakan musim gugur di {{aNa}}!"
-        }
-      },
-      "Q4": {
-        "en-US": {
-          "title-v1": "Winter Wonders",
-          "body-v1": "Experience winter at {{aNa}}!"
-        },
-        "zh-HK": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬季體驗：{{aNa}}！"
-        },
-        "zh-TW": {
-          "title-v1": "冬季奇景",
-          "body-v1": "冬天來臨：{{aNa}}！"
-        },
-        "th-TH": {
-          "title-v1": "ความมหัศจรรย์ของฤดูหนาว",
-          "body-v1": "ฤดูหนาวนี้ที่{{aNa}}!"
-        },
-        "id-ID": {
-          "title-v1": "Keajaiban Musim Dingin",
-          "body-v1": "Nikmati musim dingin di {{aNa}}!"
-        }
-      }
-    }
-  }
 }
